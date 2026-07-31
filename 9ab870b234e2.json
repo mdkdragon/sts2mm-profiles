@@ -5,23 +5,6 @@
   "created_by": "mdkdragon",
   "mods": [
     {
-      "mod_version_id": "accf2628-3d4f-4e76-aa91-5f03e1c5053a",
-      "name": "BaseLib",
-      "version": "v3.3.8",
-      "source": "nexus:slaythespire2/mods/103",
-      "hash": "e92213e9286cb8cb9db42b83735cc9ddc2d642a7c90c67c5350c983d734407a8",
-      "files": [
-        "BaseLib/BaseLib.dll",
-        "BaseLib/BaseLib.json",
-        "BaseLib/BaseLib.pck"
-      ],
-      "folder_name": "BaseLib",
-      "mod_id": "BaseLib",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/BaseLib_v3.3.8_085f3f93.zip",
-      "bundle_sha256": "085f3f931d1ffc036a497b077b05d73f210b7919da08e300793a20c6178cc14e"
-    },
-    {
       "mod_version_id": "dc1b2a17-cc7b-45f5-be49-280a01482de1",
       "name": "皮皮配置: ModConfig",
       "version": "0.2.3",
@@ -203,9 +186,128 @@
       "enabled": true,
       "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/ZSMod-Reaper_v0.5.4_25a8097a.zip",
       "bundle_sha256": "25a8097a444f9169b7d1f7924d0f2b97bce0dfce17354ecfbeb4ecaa53e68566"
+    },
+    {
+      "mod_version_id": "e090fbaf-e9bf-4fa2-b6fd-38390a79b14b",
+      "name": "AncientToAncientTransforms",
+      "version": "v0.0.0",
+      "source": "nexus:slaythespire2/mods/371",
+      "hash": "1749e9c639097ec806b479e76cf6a6ba84869b1e1faa59716be5d69bd8b1b711",
+      "files": [
+        "AncientToAncientTransforms/AncientToAncientTransforms.dll",
+        "AncientToAncientTransforms/AncientToAncientTransforms.json"
+      ],
+      "folder_name": "AncientToAncientTransforms",
+      "mod_id": "AncientToAncientTransforms",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/AncientToAncientTransforms_v0.0.0_fb6b81c2.zip",
+      "bundle_sha256": "fb6b81c22a8623dfbfaf960e22a3d146252acb23b1af9b0d5d36025db7933a10"
+    },
+    {
+      "mod_version_id": "907abc87-4177-4c3e-ba94-5a56556e23a8",
+      "name": "BaseLib",
+      "version": "v3.4.0",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "81abc4c64d959458a97132f4f7132cc63be458db29075711fc7297757ac72f20",
+      "files": [
+        "BaseLib/BaseLib.dll",
+        "BaseLib/BaseLib.json",
+        "BaseLib/BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.0_c5a2507b.zip",
+      "bundle_sha256": "c5a2507b0617c2414d9a8c88c781178acd8783c77e27ddb9a9c3c7905a5f31ab"
+    },
+    {
+      "mod_version_id": "92d72181-8789-4a1c-9cfe-a841bbe21813",
+      "name": "ColoredMapS2",
+      "version": "unknown",
+      "source": "nexus:slaythespire2/mods/338",
+      "hash": "64c6ed0e7d0b3618f314ec870079c13659487a458b0479880ee44c31f5ffbda6",
+      "files": [
+        "ColoredMapS2/ColoredMapS2.dll",
+        "ColoredMapS2/ColoredMapS2.json",
+        "ColoredMapS2/ColoredMapS2.pck"
+      ],
+      "folder_name": "ColoredMapS2",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/ColoredMapS2_vunknown_4ef011b5.zip",
+      "bundle_sha256": "4ef011b5a618077e7a6a0c0c50eb28b6a5621487cc2131de18244de3b92f239d"
+    },
+    {
+      "mod_version_id": "f4316e64-be23-40c1-a05c-c3aade3e3445",
+      "name": "RitsuLib",
+      "version": "0.5.2",
+      "source": "nexus:slaythespire2/mods/137",
+      "hash": "61f3ac0ac6e4aabb920e678899b6f2ab0bd23be81eb1492d04ef8517ad069731",
+      "files": [
+        "STS2-RitsuLib/lib/0.107.1/compat-target.txt",
+        "STS2-RitsuLib/lib/0.107.1/STS2-RitsuLib.dll",
+        "STS2-RitsuLib/lib/0.107.1/STS2-RitsuLib.pdb",
+        "STS2-RitsuLib/lib/0.107.1/STS2-RitsuLib.xml",
+        "STS2-RitsuLib/lib/0.108.0/compat-target.txt",
+        "STS2-RitsuLib/lib/0.108.0/STS2-RitsuLib.dll",
+        "STS2-RitsuLib/lib/0.108.0/STS2-RitsuLib.pdb",
+        "STS2-RitsuLib/lib/0.108.0/STS2-RitsuLib.xml",
+        "STS2-RitsuLib/lib/0.109.0/compat-target.txt",
+        "STS2-RitsuLib/lib/0.109.0/STS2-RitsuLib.dll",
+        "STS2-RitsuLib/lib/0.109.0/STS2-RitsuLib.pdb",
+        "STS2-RitsuLib/lib/0.109.0/STS2-RitsuLib.xml",
+        "STS2-RitsuLib/lib/0.110.0/compat-target.txt",
+        "STS2-RitsuLib/lib/0.110.0/STS2-RitsuLib.dll",
+        "STS2-RitsuLib/lib/0.110.0/STS2-RitsuLib.pdb",
+        "STS2-RitsuLib/lib/0.110.0/STS2-RitsuLib.xml",
+        "STS2-RitsuLib/mod_manifest.json",
+        "STS2-RitsuLib/ritsulib-variants.manifest",
+        "STS2-RitsuLib/STS2-RitsuLib.dll",
+        "STS2-RitsuLib/STS2-RitsuLib.Loader.pdb",
+        "STS2-RitsuLib/viewer/assets/index.css",
+        "STS2-RitsuLib/viewer/assets/index.js",
+        "STS2-RitsuLib/viewer/index.html"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.2_372147c2.zip",
+      "bundle_sha256": "372147c20bda78f33ff522dccc72b6cfdc24a961e2b76197cc3aa10ed0f728ae"
+    },
+    {
+      "mod_version_id": "c7bf146b-3ef7-4e36-91b3-f3a581e9cbe4",
+      "name": "Show Player Hand Cards",
+      "version": "0.6.2",
+      "source": "nexus:slaythespire2/mods/169",
+      "hash": "87c102e88a3625f575a7c35927a1b6a67214f372d1d830e63f73d8e4c0dcaa04",
+      "files": [
+        "STS2-ShowPlayerHandCards/mod_manifest.json",
+        "STS2-ShowPlayerHandCards/STS2-ShowPlayerHandCards.dll"
+      ],
+      "folder_name": "STS2-ShowPlayerHandCards",
+      "mod_id": "STS2-ShowPlayerHandCards",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Show_Player_Hand_Cards_v0.6.2_53b78ce1.zip",
+      "bundle_sha256": "53b78ce122821d0d4f0c22c616ac09f903d902b9f335b9e586b78de4c80378c1"
+    },
+    {
+      "mod_version_id": "4fa936a9-c79f-4591-857d-10fd3761656a",
+      "name": "Transform Or Banish",
+      "version": "1.3.9",
+      "source": "nexus:slaythespire2/mods/334",
+      "hash": "838dbb1c67b78726d86042a891782363231c15e3c727034241f82e00dcc7efd1",
+      "files": [
+        "TransformOrBanish/TransformOrBanish.dll",
+        "TransformOrBanish/TransformOrBanish.json",
+        "TransformOrBanish/TransformOrBanish.pck"
+      ],
+      "folder_name": "TransformOrBanish",
+      "mod_id": "TransformOrBanish",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Transform_Or_Banish_v1.3.9_7784fd2b.zip",
+      "bundle_sha256": "7784fd2b595930f78e12d19e5abac50217e1f2c1f55dc8418b682cb2cc9e79c7"
     }
   ],
   "created_at": "2026-07-31T02:15:48.195390218Z",
-  "updated_at": "2026-07-31T20:48:08.799923043Z",
+  "updated_at": "2026-07-31T22:04:23.840996078Z",
   "public": false
 }
