@@ -5,23 +5,6 @@
   "created_by": "mdkdragon",
   "mods": [
     {
-      "mod_version_id": "51bcd226-fa74-4c69-a144-8b441512f24c",
-      "name": "BaseLib",
-      "version": "v3.4.0",
-      "source": "github:Alchyr/BaseLib-StS2",
-      "hash": "81abc4c64d959458a97132f4f7132cc63be458db29075711fc7297757ac72f20",
-      "files": [
-        "BaseLib/BaseLib.dll",
-        "BaseLib/BaseLib.json",
-        "BaseLib/BaseLib.pck"
-      ],
-      "folder_name": "BaseLib",
-      "mod_id": "BaseLib",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.0_c5a2507b.zip",
-      "bundle_sha256": "c5a2507b0617c2414d9a8c88c781178acd8783c77e27ddb9a9c3c7905a5f31ab"
-    },
-    {
       "mod_version_id": "f4316e64-be23-40c1-a05c-c3aade3e3445",
       "name": "RitsuLib",
       "version": "0.5.2",
@@ -308,9 +291,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.13.0_d89852b0.zip",
       "bundle_sha256": "d89852b07e7f92308568a9fa90dfb8899e0709c895614bab756059418a72ad9d"
+    },
+    {
+      "mod_version_id": "84a78029-c10f-4a80-a9d1-506d0a6309af",
+      "name": "BaseLib",
+      "version": "v3.3.8",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "e92213e9286cb8cb9db42b83735cc9ddc2d642a7c90c67c5350c983d734407a8",
+      "files": [
+        "BaseLib/BaseLib.dll",
+        "BaseLib/BaseLib.json",
+        "BaseLib/BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/BaseLib_v3.3.8_085f3f93.zip",
+      "bundle_sha256": "085f3f931d1ffc036a497b077b05d73f210b7919da08e300793a20c6178cc14e"
     }
   ],
   "created_at": "2026-07-31T02:15:48.195390218Z",
-  "updated_at": "2026-08-01T00:42:12.318897691Z",
+  "updated_at": "2026-08-01T00:47:12.464345190Z",
   "public": false
 }
