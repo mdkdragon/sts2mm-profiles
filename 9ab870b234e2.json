@@ -144,23 +144,6 @@
       "bundle_sha256": "3fe9133d4e01ac144135ac4dff76b91cbe98d14c8e508eddc38a980ef53fef23"
     },
     {
-      "mod_version_id": "a65cd1f1-17bd-41ff-9499-96509697de88",
-      "name": "Faust",
-      "version": "0.1.8",
-      "source": "nexus:slaythespire2/mods/1046",
-      "hash": "7f13f57d961f63d71cfff46eb8a5f64c22b7ab27ed2ebd5bc0260512f38be7c1",
-      "files": [
-        "Faust/Faust.dll",
-        "Faust/Faust.json",
-        "Faust/Faust.pck"
-      ],
-      "folder_name": "Faust",
-      "mod_id": "Faust",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Faust_v0.1.8_c87edbdb.zip",
-      "bundle_sha256": "c87edbdbe656a8fd7d146d6e0ae40e8779a82aa49e318935120ffb96039baf7e"
-    },
-    {
       "mod_version_id": "ac041abd-4d37-42db-acc9-82f1b2d18363",
       "name": "ZSMod-Reaper",
       "version": "v0.5.4",
@@ -328,6 +311,6 @@
     }
   ],
   "created_at": "2026-07-31T02:15:48.195390218Z",
-  "updated_at": "2026-08-01T00:31:57.687598724Z",
+  "updated_at": "2026-08-01T00:42:12.318897691Z",
   "public": false
 }
