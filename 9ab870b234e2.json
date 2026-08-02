@@ -5,43 +5,6 @@
   "created_by": "mdkdragon",
   "mods": [
     {
-      "mod_version_id": "f4316e64-be23-40c1-a05c-c3aade3e3445",
-      "name": "RitsuLib",
-      "version": "0.5.2",
-      "source": "nexus:slaythespire2/mods/137",
-      "hash": "61f3ac0ac6e4aabb920e678899b6f2ab0bd23be81eb1492d04ef8517ad069731",
-      "files": [
-        "STS2-RitsuLib/lib/0.107.1/compat-target.txt",
-        "STS2-RitsuLib/lib/0.107.1/STS2-RitsuLib.dll",
-        "STS2-RitsuLib/lib/0.107.1/STS2-RitsuLib.pdb",
-        "STS2-RitsuLib/lib/0.107.1/STS2-RitsuLib.xml",
-        "STS2-RitsuLib/lib/0.108.0/compat-target.txt",
-        "STS2-RitsuLib/lib/0.108.0/STS2-RitsuLib.dll",
-        "STS2-RitsuLib/lib/0.108.0/STS2-RitsuLib.pdb",
-        "STS2-RitsuLib/lib/0.108.0/STS2-RitsuLib.xml",
-        "STS2-RitsuLib/lib/0.109.0/compat-target.txt",
-        "STS2-RitsuLib/lib/0.109.0/STS2-RitsuLib.dll",
-        "STS2-RitsuLib/lib/0.109.0/STS2-RitsuLib.pdb",
-        "STS2-RitsuLib/lib/0.109.0/STS2-RitsuLib.xml",
-        "STS2-RitsuLib/lib/0.110.0/compat-target.txt",
-        "STS2-RitsuLib/lib/0.110.0/STS2-RitsuLib.dll",
-        "STS2-RitsuLib/lib/0.110.0/STS2-RitsuLib.pdb",
-        "STS2-RitsuLib/lib/0.110.0/STS2-RitsuLib.xml",
-        "STS2-RitsuLib/mod_manifest.json",
-        "STS2-RitsuLib/ritsulib-variants.manifest",
-        "STS2-RitsuLib/STS2-RitsuLib.dll",
-        "STS2-RitsuLib/STS2-RitsuLib.Loader.pdb",
-        "STS2-RitsuLib/viewer/assets/index.css",
-        "STS2-RitsuLib/viewer/assets/index.js",
-        "STS2-RitsuLib/viewer/index.html"
-      ],
-      "folder_name": "STS2-RitsuLib",
-      "mod_id": "STS2-RitsuLib",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.2_372147c2.zip",
-      "bundle_sha256": "372147c20bda78f33ff522dccc72b6cfdc24a961e2b76197cc3aa10ed0f728ae"
-    },
-    {
       "mod_version_id": "dc1b2a17-cc7b-45f5-be49-280a01482de1",
       "name": "皮皮配置: ModConfig",
       "version": "0.2.3",
@@ -289,8 +252,8 @@
       "folder_name": "RouteSuggest",
       "mod_id": "RouteSuggest",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.13.0_d89852b0.zip",
-      "bundle_sha256": "d89852b07e7f92308568a9fa90dfb8899e0709c895614bab756059418a72ad9d"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.13.0_d9bba234.zip",
+      "bundle_sha256": "d9bba234ef8296479b1a5781e233a0395909b50248bfce3523328eb47fc1921a"
     },
     {
       "mod_version_id": "84a78029-c10f-4a80-a9d1-506d0a6309af",
@@ -308,9 +271,46 @@
       "enabled": true,
       "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/BaseLib_v3.3.8_085f3f93.zip",
       "bundle_sha256": "085f3f931d1ffc036a497b077b05d73f210b7919da08e300793a20c6178cc14e"
+    },
+    {
+      "mod_version_id": "2a5938bf-fc93-4c14-87a6-ccdd940d8189",
+      "name": "RitsuLib",
+      "version": "0.5.4",
+      "source": "nexus:slaythespire2/mods/137",
+      "hash": "2206c8361bc93c60f118660c0782b08d40fc65ffe77f56e6d7f6c2b9919cc3a3",
+      "files": [
+        "STS2-RitsuLib/lib/0.107.1/compat-target.txt",
+        "STS2-RitsuLib/lib/0.107.1/STS2-RitsuLib.dll",
+        "STS2-RitsuLib/lib/0.107.1/STS2-RitsuLib.pdb",
+        "STS2-RitsuLib/lib/0.107.1/STS2-RitsuLib.xml",
+        "STS2-RitsuLib/lib/0.108.0/compat-target.txt",
+        "STS2-RitsuLib/lib/0.108.0/STS2-RitsuLib.dll",
+        "STS2-RitsuLib/lib/0.108.0/STS2-RitsuLib.pdb",
+        "STS2-RitsuLib/lib/0.108.0/STS2-RitsuLib.xml",
+        "STS2-RitsuLib/lib/0.109.0/compat-target.txt",
+        "STS2-RitsuLib/lib/0.109.0/STS2-RitsuLib.dll",
+        "STS2-RitsuLib/lib/0.109.0/STS2-RitsuLib.pdb",
+        "STS2-RitsuLib/lib/0.109.0/STS2-RitsuLib.xml",
+        "STS2-RitsuLib/lib/0.110.0/compat-target.txt",
+        "STS2-RitsuLib/lib/0.110.0/STS2-RitsuLib.dll",
+        "STS2-RitsuLib/lib/0.110.0/STS2-RitsuLib.pdb",
+        "STS2-RitsuLib/lib/0.110.0/STS2-RitsuLib.xml",
+        "STS2-RitsuLib/mod_manifest.json",
+        "STS2-RitsuLib/ritsulib-variants.manifest",
+        "STS2-RitsuLib/STS2-RitsuLib.dll",
+        "STS2-RitsuLib/STS2-RitsuLib.Loader.pdb",
+        "STS2-RitsuLib/viewer/assets/index.css",
+        "STS2-RitsuLib/viewer/assets/index.js",
+        "STS2-RitsuLib/viewer/index.html"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.4_507c7801.zip",
+      "bundle_sha256": "507c7801ac5ac8672c91e39857bdc72857a36748279374217a5eadad14a2e2f0"
     }
   ],
   "created_at": "2026-07-31T02:15:48.195390218Z",
-  "updated_at": "2026-08-01T00:47:12.464345190Z",
+  "updated_at": "2026-08-02T18:44:46.375815351Z",
   "public": false
 }
