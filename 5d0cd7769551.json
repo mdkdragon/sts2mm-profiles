@@ -1,53 +1,53 @@
 {
-  "id": "7edf2077-90f4-42e3-9a9f-28656e641ee2",
+  "id": "7de6bb8c-8887-4650-9bde-2a3ab506534b",
   "name": "Dragonite sts2",
   "game_version": "0.107.1",
   "created_by": "mdkdragon",
   "mods": [
     {
-      "mod_version_id": "34612582-f197-4d73-9a2a-81da18378bfa",
+      "mod_version_id": "dc1b2a17-cc7b-45f5-be49-280a01482de1",
       "name": "皮皮配置: ModConfig",
       "version": "0.2.3",
       "source": "nexus:slaythespire2/mods/27",
       "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
       "files": [
-        "ModConfig\\ModConfig.dll",
-        "ModConfig\\ModConfig.json",
-        "ModConfig\\ModConfig.pck"
+        "ModConfig/ModConfig.dll",
+        "ModConfig/ModConfig.json",
+        "ModConfig/ModConfig.pck"
       ],
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_47ca1744.zip",
-      "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_95aac452.zip",
+      "bundle_sha256": "95aac452d0ef2be1752ca66638ffa1ef9533b93e1a7aec8bd602d6d750b5812f"
     },
     {
-      "mod_version_id": "59f67a71-f5fa-4a11-987c-3cf3efeee5f4",
+      "mod_version_id": "e60d12fa-3003-43b6-9a77-f1b902c4a4f5",
       "name": "Unified Save Path",
       "version": "1.0.0",
       "source": "nexus:slaythespire2/mods/6",
       "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
       "files": [
-        "UnifiedSavePath\\UnifiedSavePath.dll",
-        "UnifiedSavePath\\UnifiedSavePath.json",
-        "UnifiedSavePath\\UnifiedSavePath.pck"
+        "UnifiedSavePath/UnifiedSavePath.dll",
+        "UnifiedSavePath/UnifiedSavePath.json",
+        "UnifiedSavePath/UnifiedSavePath.pck"
       ],
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_3966fd23.zip",
-      "bundle_sha256": "3966fd23813432cd907271accde25b335e4f2821308078bf85876ce2595365a9"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_e6db95ca.zip",
+      "bundle_sha256": "e6db95cac55773046827e4a3117fc61a354e7da54ce5e57fb5c679b461377db9"
     },
     {
-      "mod_version_id": "18a91bbb-a8fc-4b16-91df-6cfbe9c2c865",
+      "mod_version_id": "a65516c8-fbee-4b4d-b3af-065199d66119",
       "name": "Ryoshu",
       "version": "0.3.6",
       "source": "nexus:slaythespire2/mods/302",
       "hash": "0ff08a3187df4969a6d4ecc9a3c79e28bbb6ab51ba6feb7bc0cc6ffb2605de9a",
       "files": [
-        "Ryoshu\\Ryoshu.dll",
-        "Ryoshu\\Ryoshu.json",
-        "Ryoshu\\Ryoshu.pck"
+        "Ryoshu/Ryoshu.dll",
+        "Ryoshu/Ryoshu.json",
+        "Ryoshu/Ryoshu.pck"
       ],
       "folder_name": "Ryoshu",
       "mod_id": "Ryoshu",
@@ -56,15 +56,15 @@
       "bundle_sha256": "d987f5dc90223797c35dcdca897715ca455816f48fda221047ac4d7ae55ceedd"
     },
     {
-      "mod_version_id": "1d2fa9c9-7137-4c27-bc15-b1dd237fca5c",
+      "mod_version_id": "48a876e7-ba27-4b7f-88ea-b078eac8a295",
       "name": "Honglu",
       "version": "0.2.1",
       "source": "nexus:slaythespire2/mods/673",
       "hash": "f6b41d881e4ddd1ab1af17986984a0ff8f7912b1f87cbb39dca468c93246cfbb",
       "files": [
-        "Honglu\\Honglu.dll",
-        "Honglu\\Honglu.json",
-        "Honglu\\Honglu.pck"
+        "Honglu/Honglu.dll",
+        "Honglu/Honglu.json",
+        "Honglu/Honglu.pck"
       ],
       "folder_name": "Honglu",
       "mod_id": "Honglu",
@@ -73,15 +73,15 @@
       "bundle_sha256": "3fe9133d4e01ac144135ac4dff76b91cbe98d14c8e508eddc38a980ef53fef23"
     },
     {
-      "mod_version_id": "cf70ada8-def6-4678-b520-fe36a1029e17",
+      "mod_version_id": "ac041abd-4d37-42db-acc9-82f1b2d18363",
       "name": "ZSMod-Reaper",
       "version": "v0.5.4",
       "source": "nexus:slaythespire2/mods/412",
       "hash": "c34f1bb14bbdf1f38152402770f82de9572374a95b74d13006f49337b6a3a11e",
       "files": [
-        "zsproject\\zsproject.dll",
-        "zsproject\\zsproject.json",
-        "zsproject\\zsproject.pck"
+        "zsproject/zsproject.dll",
+        "zsproject/zsproject.json",
+        "zsproject/zsproject.pck"
       ],
       "folder_name": "zsproject",
       "mod_id": "zsproject",
@@ -90,210 +90,227 @@
       "bundle_sha256": "25a8097a444f9169b7d1f7924d0f2b97bce0dfce17354ecfbeb4ecaa53e68566"
     },
     {
-      "mod_version_id": "fe59773a-6710-4e41-bd74-30c3c7b3e71d",
+      "mod_version_id": "e214d8c4-9024-443e-bb34-b788b4f460d6",
       "name": "Transform Or Banish",
       "version": "1.3.9",
       "source": "nexus:slaythespire2/mods/334",
       "hash": "838dbb1c67b78726d86042a891782363231c15e3c727034241f82e00dcc7efd1",
       "files": [
-        "TransformOrBanish\\TransformOrBanish.dll",
-        "TransformOrBanish\\TransformOrBanish.json",
-        "TransformOrBanish\\TransformOrBanish.pck"
+        "TransformOrBanish/TransformOrBanish.dll",
+        "TransformOrBanish/TransformOrBanish.json",
+        "TransformOrBanish/TransformOrBanish.pck"
       ],
       "folder_name": "TransformOrBanish",
       "mod_id": "TransformOrBanish",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Transform_Or_Banish_v1.3.9_c4e95ab1.zip",
-      "bundle_sha256": "c4e95ab12ea237ac69a997f485be372a7597b2031129ea07799fc3e4bf557395"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Transform_Or_Banish_v1.3.9_7784fd2b.zip",
+      "bundle_sha256": "7784fd2b595930f78e12d19e5abac50217e1f2c1f55dc8418b682cb2cc9e79c7"
     },
     {
-      "mod_version_id": "057d083d-8f2a-47c5-af63-930ed3be02e7",
+      "mod_version_id": "dd3f64ec-6a7f-4a6e-a639-cdf549a4d8c8",
       "name": "BetterSpire2",
       "version": "v1.83.8",
       "source": "nexus:slaythespire2/mods/2",
       "hash": "cd785b008a28cdc37d335ba933a0cc8acc7842a05496da94295855106a3eab75",
       "files": [
-        "BetterSpire2\\BetterSpire2.dll",
-        "BetterSpire2\\BetterSpire2.json",
-        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
-        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
-        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
-        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
-        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
-        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
-        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
-        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
-        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
-        "BetterSpire2\\BetterSpire2_localization\\README.txt",
-        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
-        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
-        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
-        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
-        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+        "BetterSpire2/BetterSpire2.dll",
+        "BetterSpire2/BetterSpire2.json",
+        "BetterSpire2/BetterSpire2_localization/deu.lang",
+        "BetterSpire2/BetterSpire2_localization/eng.lang",
+        "BetterSpire2/BetterSpire2_localization/esp.lang",
+        "BetterSpire2/BetterSpire2_localization/fra.lang",
+        "BetterSpire2/BetterSpire2_localization/ita.lang",
+        "BetterSpire2/BetterSpire2_localization/jpn.lang",
+        "BetterSpire2/BetterSpire2_localization/kor.lang",
+        "BetterSpire2/BetterSpire2_localization/pol.lang",
+        "BetterSpire2/BetterSpire2_localization/ptb.lang",
+        "BetterSpire2/BetterSpire2_localization/README.txt",
+        "BetterSpire2/BetterSpire2_localization/rus.lang",
+        "BetterSpire2/BetterSpire2_localization/spa.lang",
+        "BetterSpire2/BetterSpire2_localization/tha.lang",
+        "BetterSpire2/BetterSpire2_localization/tur.lang",
+        "BetterSpire2/BetterSpire2_localization/zhs.lang"
       ],
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.8_593e31cd.zip",
-      "bundle_sha256": "593e31cddd367fc6b952bdba4c9951ae69041c1bb289f8d1433f5228c25fcf71"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.8_4d55f0e4.zip",
+      "bundle_sha256": "4d55f0e47db6a97ddd2577b11b5ceb3e0d7249f6d6f324ddc8c014dc1b061ddc"
     },
     {
-      "mod_version_id": "3484cf6f-de55-46a5-ad20-08d1f309ba5b",
+      "mod_version_id": "fbf8630a-54c3-4a26-9a4a-16e4a62776ba",
       "name": "CZN Style UI",
       "version": "v0.1.4",
       "source": "nexus:slaythespire2/mods/1387",
       "hash": "58a4397648fefa03d8d8af7388dbe55fb2ed053928ceb81cf3785d67e3c5ec65",
       "files": [
-        "CznStyleUI\\CznStyleUI.dll",
-        "CznStyleUI\\CznStyleUI.json",
-        "CznStyleUI\\CznStyleUI.pck"
+        "CznStyleUI/CznStyleUI.dll",
+        "CznStyleUI/CznStyleUI.json",
+        "CznStyleUI/CznStyleUI.pck"
       ],
       "folder_name": "CznStyleUI",
       "mod_id": "CznStyleUI",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Style_UI_v0.1.4_9de64753.zip",
-      "bundle_sha256": "9de647535f9270fb23f6066d202f513184b2862f115abfd03ab9444887456d34"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Style_UI_v0.1.4_9a8bd6d0.zip",
+      "bundle_sha256": "9a8bd6d01a2a71a12c59bfbdc4f6e3eb8dd07619e136e63acc09dd54719b13f8"
     },
     {
-      "mod_version_id": "42bdba9b-6cbd-4a6e-98ce-bc71024920a3",
+      "mod_version_id": "7e95a210-a05b-4535-945d-2db4636f50a5",
       "name": "Highlight Map Points",
       "version": "1.1",
       "source": "nexus:slaythespire2/mods/40",
       "hash": "6181dd198718011425340b0d17c5a1957458c84f4640ca13e6ae505cd93af1bc",
       "files": [
-        "HighlightMapPoints\\HighlightMapPoints.dll",
-        "HighlightMapPoints\\HighlightMapPoints.json"
+        "HighlightMapPoints/HighlightMapPoints.dll",
+        "HighlightMapPoints/HighlightMapPoints.json"
       ],
       "folder_name": "HighlightMapPoints",
       "mod_id": "HighlightMapPoints",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Highlight_Map_Points_v1.1_13158337.zip",
-      "bundle_sha256": "1315833737486d83e68ef6e339e24a573643bc1e8f47134ae3366d06e00d1cb9"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Highlight_Map_Points_v1.1_bd2afc41.zip",
+      "bundle_sha256": "bd2afc417a04d9205dbb891869ba2f8f688589cdd5a3f6ff30e3305a5c81d1d6"
     },
     {
-      "mod_version_id": "95c168f3-d346-4611-9d93-da6f24a9b471",
+      "mod_version_id": "f7f3d2d2-f0f5-408d-bffb-e539a20f52d1",
       "name": "Potion Rarity Display",
       "version": "1.1",
       "source": "nexus:slaythespire2/mods/30",
       "hash": "ef3feaa5c169f5c587dbbea85f1385a20238d77d0e52d3096d2dbfdc2cb47fba",
       "files": [
-        "PotionRarityDisplay\\mod_manifest.json",
-        "PotionRarityDisplay\\PotionRarityDisplay.dll",
-        "PotionRarityDisplay\\PotionRarityDisplay.pck"
+        "PotionRarityDisplay/mod_manifest.json",
+        "PotionRarityDisplay/PotionRarityDisplay.dll",
+        "PotionRarityDisplay/PotionRarityDisplay.pck"
       ],
       "folder_name": "PotionRarityDisplay",
       "mod_id": "PotionRarityDisplay",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Potion_Rarity_Display_v1.1_b73e1702.zip",
-      "bundle_sha256": "b73e1702fde95f35f739f345a3c7458469bc53b4e2a8f951a35cdc527e547ad2"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Potion_Rarity_Display_v1.1_58ae91db.zip",
+      "bundle_sha256": "58ae91dbf80c650b367f771660e970d36645202e228a58fe06c578b36164dc22"
     },
     {
-      "mod_version_id": "aa7fcffe-3a2b-4ea4-a329-ec0d9d68ceaf",
+      "mod_version_id": "8e586107-0c65-4522-b1a9-de288f03250b",
       "name": "Relic Rarity Display",
       "version": "1.1",
       "source": "nexus:slaythespire2/mods/28",
       "hash": "3e0f32fe90d01529d0a8293c21bc1910a38297bd079147196ff1c16bf6a722fc",
       "files": [
-        "RelicRarityDisplay\\mod_manifest.json",
-        "RelicRarityDisplay\\RelicRarityDisplay.dll",
-        "RelicRarityDisplay\\RelicRarityDisplay.pck"
+        "RelicRarityDisplay/mod_manifest.json",
+        "RelicRarityDisplay/RelicRarityDisplay.dll",
+        "RelicRarityDisplay/RelicRarityDisplay.pck"
       ],
       "folder_name": "RelicRarityDisplay",
       "mod_id": "RelicRarityDisplay",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Relic_Rarity_Display_v1.1_6485a142.zip",
-      "bundle_sha256": "6485a142da492e3fb6b9474b76f6460076ef6fbc76a90e7d47844e6955817e86"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Relic_Rarity_Display_v1.1_65b3ed3b.zip",
+      "bundle_sha256": "65b3ed3ba7eb568ba271329a06fe91075ef59b482e0ef33cfd460caa5df81b5a"
     },
     {
-      "mod_version_id": "f5c1d9ae-4e3a-44d7-8672-56c7807423a9",
+      "mod_version_id": "c7bf146b-3ef7-4e36-91b3-f3a581e9cbe4",
       "name": "Show Player Hand Cards",
       "version": "0.6.2",
       "source": "nexus:slaythespire2/mods/169",
       "hash": "87c102e88a3625f575a7c35927a1b6a67214f372d1d830e63f73d8e4c0dcaa04",
       "files": [
-        "STS2-ShowPlayerHandCards\\mod_manifest.json",
-        "STS2-ShowPlayerHandCards\\STS2-ShowPlayerHandCards.dll"
+        "STS2-ShowPlayerHandCards/mod_manifest.json",
+        "STS2-ShowPlayerHandCards/STS2-ShowPlayerHandCards.dll"
       ],
       "folder_name": "STS2-ShowPlayerHandCards",
       "mod_id": "STS2-ShowPlayerHandCards",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Show_Player_Hand_Cards_v0.6.2_50d12933.zip",
-      "bundle_sha256": "50d1293366f910c01ed7d03bb021fcf5e2a4e1a088aec022edc1ba215e3d3285"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Show_Player_Hand_Cards_v0.6.2_53b78ce1.zip",
+      "bundle_sha256": "53b78ce122821d0d4f0c22c616ac09f903d902b9f335b9e586b78de4c80378c1"
     },
     {
-      "mod_version_id": "53404aec-303c-401f-b759-4dbfb176a854",
+      "mod_version_id": "c93403ff-ee7c-4317-bbfa-ecb8e3321408",
       "name": "RouteSuggest",
       "version": "1.13.0",
       "source": "nexus:slaythespire2/mods/54",
       "hash": "0a0760a01441da6b3f6e895c315afe369e177f83b53ca7c730bd0c9bd3640aa0",
       "files": [
-        "RouteSuggest\\RouteSuggest.dll",
-        "RouteSuggest\\RouteSuggest.json",
-        "RouteSuggest\\RouteSuggest.pck",
-        "RouteSuggest\\RouteSuggestConfig.json"
+        "RouteSuggest/RouteSuggest.dll",
+        "RouteSuggest/RouteSuggest.json",
+        "RouteSuggest/RouteSuggest.pck",
+        "RouteSuggest/RouteSuggestConfig.json"
       ],
       "folder_name": "RouteSuggest",
       "mod_id": "RouteSuggest",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.13.0_aa738588.zip",
-      "bundle_sha256": "aa738588ebbc23acc0907afb1d372ddfe0e5d95a28c295bad67c97d81134d49c"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.13.0_e00442d7.zip",
+      "bundle_sha256": "e00442d72854ee874509576b88e2b38038470b301dd25227e63a8b9f7314b105"
     },
     {
-      "mod_version_id": "c0621352-4d2b-40c9-9100-1a237d325862",
+      "mod_version_id": "84a78029-c10f-4a80-a9d1-506d0a6309af",
       "name": "BaseLib",
       "version": "v3.3.8",
       "source": "github:Alchyr/BaseLib-StS2",
       "hash": "e92213e9286cb8cb9db42b83735cc9ddc2d642a7c90c67c5350c983d734407a8",
       "files": [
-        "BaseLib\\BaseLib.dll",
-        "BaseLib\\BaseLib.json",
-        "BaseLib\\BaseLib.pck"
+        "BaseLib/BaseLib.dll",
+        "BaseLib/BaseLib.json",
+        "BaseLib/BaseLib.pck"
       ],
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/BaseLib_v3.3.8_f89c0b67.zip",
-      "bundle_sha256": "f89c0b676bcd004424885fab9c9737bea7e299b6d3b737a42ea9d8251e054461"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/BaseLib_v3.3.8_085f3f93.zip",
+      "bundle_sha256": "085f3f931d1ffc036a497b077b05d73f210b7919da08e300793a20c6178cc14e"
     },
     {
-      "mod_version_id": "8978351e-9d63-4c79-b309-d4390e4f9b5a",
+      "mod_version_id": "2a5938bf-fc93-4c14-87a6-ccdd940d8189",
       "name": "RitsuLib",
       "version": "0.5.4",
       "source": "nexus:slaythespire2/mods/137",
       "hash": "2206c8361bc93c60f118660c0782b08d40fc65ffe77f56e6d7f6c2b9919cc3a3",
       "files": [
-        "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\lib\\0.108.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.108.0\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\lib\\0.109.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\lib\\0.110.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\mod_manifest.json",
-        "STS2-RitsuLib\\ritsulib-variants.manifest",
-        "STS2-RitsuLib\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\STS2-RitsuLib.Loader.pdb",
-        "STS2-RitsuLib\\viewer\\assets\\index.css",
-        "STS2-RitsuLib\\viewer\\assets\\index.js",
-        "STS2-RitsuLib\\viewer\\index.html"
+        "STS2-RitsuLib/lib/0.107.1/compat-target.txt",
+        "STS2-RitsuLib/lib/0.107.1/STS2-RitsuLib.dll",
+        "STS2-RitsuLib/lib/0.107.1/STS2-RitsuLib.pdb",
+        "STS2-RitsuLib/lib/0.107.1/STS2-RitsuLib.xml",
+        "STS2-RitsuLib/lib/0.108.0/compat-target.txt",
+        "STS2-RitsuLib/lib/0.108.0/STS2-RitsuLib.dll",
+        "STS2-RitsuLib/lib/0.108.0/STS2-RitsuLib.pdb",
+        "STS2-RitsuLib/lib/0.108.0/STS2-RitsuLib.xml",
+        "STS2-RitsuLib/lib/0.109.0/compat-target.txt",
+        "STS2-RitsuLib/lib/0.109.0/STS2-RitsuLib.dll",
+        "STS2-RitsuLib/lib/0.109.0/STS2-RitsuLib.pdb",
+        "STS2-RitsuLib/lib/0.109.0/STS2-RitsuLib.xml",
+        "STS2-RitsuLib/lib/0.110.0/compat-target.txt",
+        "STS2-RitsuLib/lib/0.110.0/STS2-RitsuLib.dll",
+        "STS2-RitsuLib/lib/0.110.0/STS2-RitsuLib.pdb",
+        "STS2-RitsuLib/lib/0.110.0/STS2-RitsuLib.xml",
+        "STS2-RitsuLib/mod_manifest.json",
+        "STS2-RitsuLib/ritsulib-variants.manifest",
+        "STS2-RitsuLib/STS2-RitsuLib.dll",
+        "STS2-RitsuLib/STS2-RitsuLib.Loader.pdb",
+        "STS2-RitsuLib/viewer/assets/index.css",
+        "STS2-RitsuLib/viewer/assets/index.js",
+        "STS2-RitsuLib/viewer/index.html"
       ],
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.4_f2a15f28.zip",
-      "bundle_sha256": "f2a15f28bace8487c172ac01861f6b3032b55e5976d3ad9b00cfcb628c13cb30"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.4_507c7801.zip",
+      "bundle_sha256": "507c7801ac5ac8672c91e39857bdc72857a36748279374217a5eadad14a2e2f0"
+    },
+    {
+      "mod_version_id": "82a5c35d-1b6e-4486-8f95-4c370601ee99",
+      "name": "Cloud",
+      "version": "v1.0.1",
+      "source": "nexus:slaythespire2/mods/1337",
+      "hash": "0193f6f5a417c641c9fa4a08229b413f218fe8ebba56c1ac28b91168a530c688",
+      "files": [
+        "Cloud/Cloud.dll",
+        "Cloud/Cloud.json",
+        "Cloud/Cloud.pck"
+      ],
+      "folder_name": "Cloud",
+      "mod_id": "Cloud",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Cloud_v1.0.1_544ce0e2.zip",
+      "bundle_sha256": "544ce0e23566c99480fcf9c4ff2099df5c1d86b9b7062ce2aca5d71db8cd0541"
     }
   ],
   "created_at": "2026-07-31T02:15:48.195390218Z",
-  "updated_at": "2026-08-02T22:51:51.226362200Z",
+  "updated_at": "2026-08-02T23:11:44.400265625Z",
   "public": false
 }
