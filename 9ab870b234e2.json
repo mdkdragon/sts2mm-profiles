@@ -1,7 +1,7 @@
 {
   "id": "25a2dee2-852f-46bc-a228-dc68b525236c",
   "name": "Dragonite sts2",
-  "game_version": "0.107.1",
+  "game_version": "0.110.1",
   "created_by": "mdkdragon",
   "mods": [
     {
@@ -37,23 +37,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_e6db95ca.zip",
       "bundle_sha256": "e6db95cac55773046827e4a3117fc61a354e7da54ce5e57fb5c679b461377db9"
-    },
-    {
-      "mod_version_id": "82a5c35d-1b6e-4486-8f95-4c370601ee99",
-      "name": "Cloud",
-      "version": "v1.0.1",
-      "source": "nexus:slaythespire2/mods/1337",
-      "hash": "0193f6f5a417c641c9fa4a08229b413f218fe8ebba56c1ac28b91168a530c688",
-      "files": [
-        "Cloud/Cloud.dll",
-        "Cloud/Cloud.json",
-        "Cloud/Cloud.pck"
-      ],
-      "folder_name": "Cloud",
-      "mod_id": "Cloud",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Cloud_v1.0.1_544ce0e2.zip",
-      "bundle_sha256": "544ce0e23566c99480fcf9c4ff2099df5c1d86b9b7062ce2aca5d71db8cd0541"
     },
     {
       "mod_version_id": "a65516c8-fbee-4b4d-b3af-065199d66119",
@@ -311,6 +294,6 @@
     }
   ],
   "created_at": "2026-07-31T02:15:48.195390218Z",
-  "updated_at": "2026-08-02T18:44:46.375815351Z",
+  "updated_at": "2026-08-02T22:42:30.755127399Z",
   "public": false
 }
