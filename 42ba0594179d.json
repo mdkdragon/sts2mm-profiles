@@ -173,9 +173,60 @@
       "enabled": true,
       "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_47ca1744.zip",
       "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
+    },
+    {
+      "mod_version_id": "a432db49-9c7d-47d7-9895-8f5194cf9d22",
+      "name": "The Blue Mage",
+      "version": "v1.0.3",
+      "source": "nexus:slaythespire2/mods/1401",
+      "hash": "70d2d38987f5161f7c7c7a2532c7d693e0ed0bbed2e35928594aaee7d82bf5db",
+      "files": [
+        "TheBlueMage\\TheBlueMage.dll",
+        "TheBlueMage\\TheBlueMage.json",
+        "TheBlueMage\\TheBlueMage.pck"
+      ],
+      "folder_name": "TheBlueMage",
+      "mod_id": "TheBlueMage",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/The_Blue_Mage_v1.0.3_0d48bbe7.zip",
+      "bundle_sha256": "0d48bbe702023ab4a899173823f93d42f7dffc419314728399b820ff69545a54"
+    },
+    {
+      "mod_version_id": "443b3c34-a97d-4f02-9c39-42ec40cea600",
+      "name": "Sora",
+      "version": "v1.0.0",
+      "source": "nexus:slaythespire2/mods/1407",
+      "hash": "7424cef6dc17130ecc84433b2a82c0b514e552b3621f80166eb7c99e3bad34fd",
+      "files": [
+        "Sora\\Sora.dll",
+        "Sora\\Sora.json",
+        "Sora\\Sora.pck"
+      ],
+      "folder_name": "Sora",
+      "mod_id": "Sora",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Sora_v1.0.0_33b5762c.zip",
+      "bundle_sha256": "33b5762cce98555a3a9b65085031d3b07026f463e88bafa3350b993fa5070d3d"
+    },
+    {
+      "mod_version_id": "bae85a2f-9b5b-4112-8457-7bbb42c04b0e",
+      "name": "Cloud",
+      "version": "v1.0.6",
+      "source": "nexus:slaythespire2/mods/1337",
+      "hash": "9ee47b0886a64b3e94f5ea72acf5e7fbb12cdc45ec28b2cdc7352012491a05c8",
+      "files": [
+        "Cloud\\Cloud.dll",
+        "Cloud\\Cloud.json",
+        "Cloud\\Cloud.pck"
+      ],
+      "folder_name": "Cloud",
+      "mod_id": "Cloud",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Cloud_v1.0.6_20f64f97.zip",
+      "bundle_sha256": "20f64f970ab49c4c7842c5052720cfc6fdac694347d4afe1b327b6c1408379ba"
     }
   ],
   "created_at": "2026-08-02T18:54:21.239645700Z",
-  "updated_at": "2026-08-02T20:12:44.712952700Z",
+  "updated_at": "2026-08-02T20:20:03.700150400Z",
   "public": false
 }
