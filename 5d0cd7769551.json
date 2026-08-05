@@ -22,11 +22,11 @@
       "bundle_sha256": "085f3f931d1ffc036a497b077b05d73f210b7919da08e300793a20c6178cc14e"
     },
     {
-      "mod_version_id": "2a5938bf-fc93-4c14-87a6-ccdd940d8189",
+      "mod_version_id": "5b529121-d4ee-46e2-9621-5cd4d0171f48",
       "name": "RitsuLib",
-      "version": "0.5.4",
+      "version": "0.5.10",
       "source": "nexus:slaythespire2/mods/137",
-      "hash": "2206c8361bc93c60f118660c0782b08d40fc65ffe77f56e6d7f6c2b9919cc3a3",
+      "hash": "74f70d72c5a9b1d65e25fddbb70274b52b322dd2dcd16879a0f3be539c382250",
       "files": [
         "STS2-RitsuLib/lib/0.107.1/compat-target.txt",
         "STS2-RitsuLib/lib/0.107.1/STS2-RitsuLib.dll",
@@ -55,8 +55,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.4_507c7801.zip",
-      "bundle_sha256": "507c7801ac5ac8672c91e39857bdc72857a36748279374217a5eadad14a2e2f0"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.10_9c32226f.zip",
+      "bundle_sha256": "9c32226f3d3eddac288d854064737a1585b63ea5c129f7682f9ba39bcf646f7b"
     },
     {
       "mod_version_id": "dc1b2a17-cc7b-45f5-be49-280a01482de1",
@@ -205,8 +205,8 @@
       "folder_name": "RouteSuggest",
       "mod_id": "RouteSuggest",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.13.0_e00442d7.zip",
-      "bundle_sha256": "e00442d72854ee874509576b88e2b38038470b301dd25227e63a8b9f7314b105"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.13.0_d5279022.zip",
+      "bundle_sha256": "d52790225b213a2dbbebb852ad9800655a58f1b0b29b3e7d9278784164d46da5"
     },
     {
       "mod_version_id": "a65516c8-fbee-4b4d-b3af-065199d66119",
@@ -308,9 +308,44 @@
       "enabled": true,
       "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Show_Player_Hand_Cards_v0.6.2_53b78ce1.zip",
       "bundle_sha256": "53b78ce122821d0d4f0c22c616ac09f903d902b9f335b9e586b78de4c80378c1"
+    },
+    {
+      "mod_version_id": "6181ed4b-1988-439e-a4ff-70272b294b7e",
+      "name": "God of Destruction, Beerus",
+      "version": "v1.0.0",
+      "source": "nexus:slaythespire2/mods/1363",
+      "hash": "81b0a901b3457aa31fc303114bd10e2f9b29fc9fe4ce52b98add4e3a8edc66b5",
+      "files": [
+        "Beerus/Beerus.dll",
+        "Beerus/Beerus.json",
+        "Beerus/Beerus.pck",
+        "Beerus/Beerus.pdb"
+      ],
+      "folder_name": "Beerus",
+      "mod_id": "Beerus",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/God_of_Destruction._Beerus_v1.0.0_53871410.zip",
+      "bundle_sha256": "538714103967d561aa1e90fd81fffd55c5c0c42395d1e621bca7a07a5f040a3a"
+    },
+    {
+      "mod_version_id": "a65ca93f-ef2e-45d1-880a-7198625f3f1f",
+      "name": "The Cursed",
+      "version": "v0.2.7",
+      "source": "github:jhp109/TheCursedMod2",
+      "hash": "73598cc7da981765395f9ea9b8db4cf1f1bc27193b6c775e244cbd57c22dfdc0",
+      "files": [
+        "TheCursedMod/TheCursedMod.dll",
+        "TheCursedMod/TheCursedMod.json",
+        "TheCursedMod/TheCursedMod.pck"
+      ],
+      "folder_name": "TheCursedMod",
+      "mod_id": "TheCursedMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/The_Cursed_v0.2.7_1bdfdc8e.zip",
+      "bundle_sha256": "1bdfdc8ed76bf21a30cb58bc8e6ac4368f4470baf7a083dac5d95ecd2b93eb51"
     }
   ],
   "created_at": "2026-07-31T02:15:48.195390218Z",
-  "updated_at": "2026-08-02T23:26:39.512050467Z",
+  "updated_at": "2026-08-05T23:16:00.095052123Z",
   "public": false
 }
