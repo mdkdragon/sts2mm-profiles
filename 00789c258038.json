@@ -107,40 +107,6 @@
       "bundle_sha256": "4d55f0e47db6a97ddd2577b11b5ceb3e0d7249f6d6f324ddc8c014dc1b061ddc"
     },
     {
-      "mod_version_id": "845d3979-c96f-4d01-9790-11d6e3e5f739",
-      "name": "CZN Style UI",
-      "version": "v1.0.0-beta",
-      "source": "nexus:slaythespire2/mods/1387",
-      "hash": "c33f1ae820b8cb75ed0c412e847479b043c30f1f993652e81f5261f58f775af7",
-      "files": [
-        "CznStyleUI/CznStyleUI.dll",
-        "CznStyleUI/CznStyleUI.json",
-        "CznStyleUI/CznStyleUI.pck"
-      ],
-      "folder_name": "CznStyleUI",
-      "mod_id": "CznStyleUI",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Style_UI_v1.0.0-beta_b8d14b17.zip",
-      "bundle_sha256": "b8d14b17ae149f05700cfef8ada0751ac9627b896ef5d1b6207a74cae760d5af"
-    },
-    {
-      "mod_version_id": "3dc003f3-c474-4647-815f-1920bbb5465e",
-      "name": "CZN Main Menu",
-      "version": "v0.1.1-beta",
-      "source": "nexus:slaythespire2/mods/1402",
-      "hash": "171291bacc56849f0b7b0f6d7da6eda0a292fbcf9858cf97c1cbdc30b4e6287f",
-      "files": [
-        "CznMainMenu/CznMainMenu.dll",
-        "CznMainMenu/CznMainMenu.json",
-        "CznMainMenu/CznMainMenu.pck"
-      ],
-      "folder_name": "CznMainMenu",
-      "mod_id": "CznMainMenu",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Main_Menu_v0.1.1-beta_882d85b4.zip",
-      "bundle_sha256": "882d85b462eeb45e34fe41fc9f2fa7ad8928bbd32e1f82c901e1fab05b093b2b"
-    },
-    {
       "mod_version_id": "7e95a210-a05b-4535-945d-2db4636f50a5",
       "name": "Highlight Map Points",
       "version": "1.1",
@@ -330,6 +296,6 @@
     }
   ],
   "created_at": "2026-08-02T18:54:21.239645700Z",
-  "updated_at": "2026-08-06T00:02:44.232608710Z",
+  "updated_at": "2026-08-06T00:40:38.737469223Z",
   "public": false
 }
