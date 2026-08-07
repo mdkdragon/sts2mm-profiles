@@ -5,11 +5,11 @@
   "created_by": "mdkdragon",
   "mods": [
     {
-      "mod_version_id": "cae7ded0-c11b-48b8-84ce-a60498b285ad",
+      "mod_version_id": "801e3e02-5934-42cd-ab9a-da6613f4276d",
       "name": "BaseLib",
-      "version": "v3.4.1",
+      "version": "v3.4.4",
       "source": "github:Alchyr/BaseLib-StS2",
-      "hash": "1aa989f46c7fd983bdbbcbf2c4fec890f28099092889421ea71e7f54914335d5",
+      "hash": "cdc962ef1ee89ce6fc150f6a3710bc422b7f39af35d6617f89469c88b2b55e28",
       "files": [
         "BaseLib/BaseLib.dll",
         "BaseLib/BaseLib.json",
@@ -18,8 +18,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.1_53f8d78b.zip",
-      "bundle_sha256": "53f8d78b7230aedddd6227e50e56c98d1c0a8a355c3135a454e02ec6d0463c47"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.4_ed598862.zip",
+      "bundle_sha256": "ed598862bda80ad73780c0d4eaa660c882b47d08b4846f9b198660e3a88fdec9"
     },
     {
       "mod_version_id": "5b529121-d4ee-46e2-9621-5cd4d0171f48",
@@ -157,12 +157,13 @@
       "bundle_sha256": "58ae91dbf80c650b367f771660e970d36645202e228a58fe06c578b36164dc22"
     },
     {
-      "mod_version_id": "e214d8c4-9024-443e-bb34-b788b4f460d6",
+      "mod_version_id": "4523f71f-07af-4555-a3af-8bccea78880d",
       "name": "Transform Or Banish",
-      "version": "1.3.9",
+      "version": "1.4.1",
       "source": "nexus:slaythespire2/mods/334",
-      "hash": "838dbb1c67b78726d86042a891782363231c15e3c727034241f82e00dcc7efd1",
+      "hash": "b10eaf9b4447c7975a57cd5b4576c332ec59b9c0d4a88c37d26a2eb19dc9fdcf",
       "files": [
+        "TransformOrBanish/RitsuModConfigAdapter.dll",
         "TransformOrBanish/TransformOrBanish.dll",
         "TransformOrBanish/TransformOrBanish.json",
         "TransformOrBanish/TransformOrBanish.pck"
@@ -170,49 +171,15 @@
       "folder_name": "TransformOrBanish",
       "mod_id": "TransformOrBanish",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Transform_Or_Banish_v1.3.9_7784fd2b.zip",
-      "bundle_sha256": "7784fd2b595930f78e12d19e5abac50217e1f2c1f55dc8418b682cb2cc9e79c7"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Transform_Or_Banish_v1.4.1_da8672d3.zip",
+      "bundle_sha256": "da8672d395561a2731a09e0a20ed562cda8be96247df887c007a2e58a9a7dba4"
     },
     {
-      "mod_version_id": "8f476600-3001-417d-80b3-06691c8f96d4",
-      "name": "Ryoshu",
-      "version": "0.3.5.beta",
-      "source": "nexus:slaythespire2/mods/302",
-      "hash": "7fe3ded16ff4bd36dfbcb59f74e5e8430c6e042924de9d8df20a58b65692178b",
-      "files": [
-        "Ryoshu/Ryoshu.dll",
-        "Ryoshu/Ryoshu.json",
-        "Ryoshu/Ryoshu.pck"
-      ],
-      "folder_name": "Ryoshu",
-      "mod_id": "Ryoshu",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Ryoshu_v0.3.5.beta_94f9d19b.zip",
-      "bundle_sha256": "94f9d19b6410f8c09395d90ef98a86a087570c76ec897ebdc38fb493cce358b4"
-    },
-    {
-      "mod_version_id": "a3056045-d23d-4396-b6be-a593adc87c40",
-      "name": "Honglu",
-      "version": "0.2.0.beta",
-      "source": "nexus:slaythespire2/mods/673",
-      "hash": "dc2e7639ce4c23e94d13b9172141b7ac47d8fa2010737feea04f34caf40d214b",
-      "files": [
-        "Honglu/Honglu.dll",
-        "Honglu/Honglu.json",
-        "Honglu/Honglu.pck"
-      ],
-      "folder_name": "Honglu",
-      "mod_id": "Honglu",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Honglu_v0.2.0.beta_49a01531.zip",
-      "bundle_sha256": "49a015314e0e01fbeecb4b9cc3f6b78e97627f60984d35a66dbdd64741458a8a"
-    },
-    {
-      "mod_version_id": "44878ff3-90d6-4db9-8ff5-3554008c60c4",
+      "mod_version_id": "f8654503-fe47-47a8-a1d4-734d96161de9",
       "name": "Sora",
-      "version": "v1.0.0",
+      "version": "v1.0.3",
       "source": "nexus:slaythespire2/mods/1407",
-      "hash": "503ba815009c2f50731da30e675507a3445168cf238a197724075425b172dd20",
+      "hash": "ac912c819010e16d441e470732c511766a57c9f1341264c408391fc200a309ac",
       "files": [
         "Sora/Sora.dll",
         "Sora/Sora.json",
@@ -221,15 +188,15 @@
       "folder_name": "Sora",
       "mod_id": "Sora",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Sora_v1.0.0_a07b808d.zip",
-      "bundle_sha256": "a07b808d6a74ef582bbde8dd9e82238b282c2e62b53631d5b541dd2b7e078449"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Sora_v1.0.3_63e2a204.zip",
+      "bundle_sha256": "63e2a204fdf3ff0f71bab73a00d37b54614dfbd0475382132c4aac8a0ed363bb"
     },
     {
-      "mod_version_id": "73ec34dc-a10b-4edf-b671-ce57049018a6",
+      "mod_version_id": "978acbd5-138b-4130-872c-2b95b1cee0aa",
       "name": "Cloud",
-      "version": "v1.0.6",
+      "version": "v1.0.7",
       "source": "nexus:slaythespire2/mods/1337",
-      "hash": "9ee47b0886a64b3e94f5ea72acf5e7fbb12cdc45ec28b2cdc7352012491a05c8",
+      "hash": "b3f752e3acbf15cae0d890fd66a532337e02d9e09a47e326170eb2c2d8d1622b",
       "files": [
         "Cloud/Cloud.dll",
         "Cloud/Cloud.json",
@@ -238,8 +205,8 @@
       "folder_name": "Cloud",
       "mod_id": "Cloud",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Cloud_v1.0.6_220d8988.zip",
-      "bundle_sha256": "220d898841319e776ff95d792ccbdd782167ddb1f6da8d86ba2c61421c2198e3"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Cloud_v1.0.7_39837ef0.zip",
+      "bundle_sha256": "39837ef0f976eed639602352464f992f4b8d0958eb361a7f36d268aac72f9dff"
     },
     {
       "mod_version_id": "60d700bc-05be-4052-9130-9f821fcb51d9",
@@ -259,9 +226,9 @@
       "bundle_sha256": "87e464eed2e6d6675b324804fb5ffef5046aedf8e14593b7c54f7198e7c37e67"
     },
     {
-      "mod_version_id": "72cd8ad8-8bbf-48e9-859c-55bfb58d96ed",
+      "mod_version_id": "fb13a35f-ca35-4e6b-bb99-1c9716ceb324",
       "name": "SephirothMod",
-      "version": "v22.0.1",
+      "version": "v22.0.2",
       "source": "nexus:slaythespire2/mods/1380",
       "hash": "4736f8cd6e2562db5c5869de68df11d4de3f9a321a468e7afe6c34818ba38da7",
       "files": [
@@ -273,29 +240,64 @@
       "folder_name": "SephirothMod",
       "mod_id": "SephirothMod",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/SephirothMod_v22.0.1_ccbc582a.zip",
-      "bundle_sha256": "ccbc582ac75d87a31f492f03d69dbfacdab8efcf87d9d841690178e59814d9d6"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/SephirothMod_v22.0.2_d0781f2b.zip",
+      "bundle_sha256": "d0781f2b7736dcbaaf3052db53f3e09eafb7ca79144e81ab7e7972ce939a1428"
     },
     {
-      "mod_version_id": "6181ed4b-1988-439e-a4ff-70272b294b7e",
-      "name": "God of Destruction, Beerus",
-      "version": "v1.0.0",
-      "source": "nexus:slaythespire2/mods/1363",
-      "hash": "81b0a901b3457aa31fc303114bd10e2f9b29fc9fe4ce52b98add4e3a8edc66b5",
+      "mod_version_id": "da633387-c46a-4c72-b4fc-aa7e8929ab1c",
+      "name": "Edea",
+      "version": "v1.1.0",
+      "source": "nexus:slaythespire2/mods/1405",
+      "hash": "18f07be3eb56ee3342f26daf70d01302d483f4fa30adf495be1dc1dc4e556454",
       "files": [
-        "Beerus/Beerus.dll",
-        "Beerus/Beerus.json",
-        "Beerus/Beerus.pck",
-        "Beerus/Beerus.pdb"
+        "EdeaMod/EdeaMod.dll",
+        "EdeaMod/EdeaMod.json",
+        "EdeaMod/EdeaMod.pck",
+        "EdeaMod/EdeaMod.pdb"
       ],
-      "folder_name": "Beerus",
-      "mod_id": "Beerus",
+      "folder_name": "EdeaMod",
+      "mod_id": "EdeaMod",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/God_of_Destruction._Beerus_v1.0.0_53871410.zip",
-      "bundle_sha256": "538714103967d561aa1e90fd81fffd55c5c0c42395d1e621bca7a07a5f040a3a"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Edea_v1.1.0_67e5d083.zip",
+      "bundle_sha256": "67e5d083265abb89485b21dd23bd56850fd260de3ab23a64bd24dd3e8a9918b0"
+    },
+    {
+      "mod_version_id": "01531b8e-bf74-4064-965f-6b436a23d9b8",
+      "name": "KaLi mod",
+      "version": "0.9.9.2",
+      "source": null,
+      "hash": "6a7e23ea283aee11bce7462b88c65bb08df09e5f1ecbc71080b8a0683aa4a39f",
+      "files": [
+        "KaLi_mod/KaLi.json",
+        "KaLi_mod/KaLi_mod.dll",
+        "KaLi_mod/KaLi_mod.pck"
+      ],
+      "folder_name": "KaLi_mod",
+      "mod_id": "KaLi_mod",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/KaLi_mod_v0.9.9.2_040fd1e4.zip",
+      "bundle_sha256": "040fd1e449d62b84205083ae2af7b66ddd31052e5d7a3aaeed0e1b0b52fd3a2a"
+    },
+    {
+      "mod_version_id": "63c29447-c246-46ec-8f3c-00ff2e7e879b",
+      "name": "Map Overhaul",
+      "version": "0.3.8",
+      "source": null,
+      "hash": "8d68f0828c3bc1457a51327e9b1cc4a7a63eea5006d3b3e519b59ad97f12355e",
+      "files": [
+        "MapOverhaul/MapOverhaul.dll",
+        "MapOverhaul/MapOverhaul.json",
+        "MapOverhaul/MapOverhaul.pck",
+        "MapOverhaul/RitsuModConfigAdapter.dll"
+      ],
+      "folder_name": "MapOverhaul",
+      "mod_id": "MapOverhaul",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Map_Overhaul_v0.3.8_b92191ce.zip",
+      "bundle_sha256": "b92191cea281f139013a5a14059a16c8f4f4cde4a5755f34fc88d9ff1272735a"
     }
   ],
   "created_at": "2026-08-02T18:54:21.239645700Z",
-  "updated_at": "2026-08-06T00:40:38.737469223Z",
+  "updated_at": "2026-08-07T00:55:58.194778143Z",
   "public": false
 }
