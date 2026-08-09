@@ -108,59 +108,6 @@
       "bundle_sha256": "593e31cddd367fc6b952bdba4c9951ae69041c1bb289f8d1433f5228c25fcf71"
     },
     {
-      "mod_version_id": "b7ef6c85-67ae-4793-8cde-52b9430666e1",
-      "name": "Highlight Map Points",
-      "version": "1.1",
-      "source": "nexus:slaythespire2/mods/40",
-      "hash": "6181dd198718011425340b0d17c5a1957458c84f4640ca13e6ae505cd93af1bc",
-      "files": [
-        "HighlightMapPoints\\HighlightMapPoints.dll",
-        "HighlightMapPoints\\HighlightMapPoints.json",
-        "HighlightMapPoints\\__folder_managed_by_vortex"
-      ],
-      "folder_name": "HighlightMapPoints",
-      "mod_id": "HighlightMapPoints",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Highlight_Map_Points_v1.1_c70f8857.zip",
-      "bundle_sha256": "c70f8857f1ac64648a9389987817628f9d1fda0877adb7acdb4d05429f923373"
-    },
-    {
-      "mod_version_id": "3a9de7aa-a4b8-4956-ac81-5780eafa78ef",
-      "name": "Relic Rarity Display",
-      "version": "1.1",
-      "source": "nexus:slaythespire2/mods/28",
-      "hash": "3e0f32fe90d01529d0a8293c21bc1910a38297bd079147196ff1c16bf6a722fc",
-      "files": [
-        "RelicRarityDisplay\\mod_manifest.json",
-        "RelicRarityDisplay\\RelicRarityDisplay.dll",
-        "RelicRarityDisplay\\RelicRarityDisplay.pck",
-        "RelicRarityDisplay\\__folder_managed_by_vortex"
-      ],
-      "folder_name": "RelicRarityDisplay",
-      "mod_id": "RelicRarityDisplay",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Relic_Rarity_Display_v1.1_52cbb8e2.zip",
-      "bundle_sha256": "52cbb8e2889af3f7607aa504e002e6349bc49a5e95859b1c47e037164a5997ef"
-    },
-    {
-      "mod_version_id": "4d8b6ec3-099e-4c3f-97b6-3dacf0b09b7a",
-      "name": "Potion Rarity Display",
-      "version": "1.1",
-      "source": "nexus:slaythespire2/mods/30",
-      "hash": "ef3feaa5c169f5c587dbbea85f1385a20238d77d0e52d3096d2dbfdc2cb47fba",
-      "files": [
-        "PotionRarityDisplay\\mod_manifest.json",
-        "PotionRarityDisplay\\PotionRarityDisplay.dll",
-        "PotionRarityDisplay\\PotionRarityDisplay.pck",
-        "PotionRarityDisplay\\__folder_managed_by_vortex"
-      ],
-      "folder_name": "PotionRarityDisplay",
-      "mod_id": "PotionRarityDisplay",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Potion_Rarity_Display_v1.1_e8278f68.zip",
-      "bundle_sha256": "e8278f6842515fcdda40882bb099145a17a0873585f9b68cb8b3008b3f09ddb3"
-    },
-    {
       "mod_version_id": "c93c7d43-98a9-49cb-abb8-ef066e8114ce",
       "name": "Sora",
       "version": "v1.0.3",
@@ -251,7 +198,7 @@
       "mod_version_id": "6fb95b6d-4afd-42fe-a914-fb88c78fc536",
       "name": "KaLi mod",
       "version": "0.9.9.3",
-      "source": null,
+      "source": "nexus:slaythespire2/mods/950",
       "hash": "45be015cc64f57c90047584d6c64014384b7cabefd1a740935622f5fd6105ada",
       "files": [
         "KaLi_mod\\KaLi.json",
@@ -265,79 +212,10 @@
       "bundle_sha256": "53a6135aeabe1c5ad7d151f823a57bddd2a02a7b12b6ac607d4ae81bec8b9f44"
     },
     {
-      "mod_version_id": "fff8341c-fa2d-43f7-9e58-92163cc3359d",
-      "name": "Map Overhaul",
-      "version": "0.3.8",
-      "source": null,
-      "hash": "8d68f0828c3bc1457a51327e9b1cc4a7a63eea5006d3b3e519b59ad97f12355e",
-      "files": [
-        "MapOverhaul\\MapOverhaul.dll",
-        "MapOverhaul\\MapOverhaul.json",
-        "MapOverhaul\\MapOverhaul.pck",
-        "MapOverhaul\\RitsuModConfigAdapter.dll"
-      ],
-      "folder_name": "MapOverhaul",
-      "mod_id": "MapOverhaul",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Map_Overhaul_v0.3.8_8ebe706a.zip",
-      "bundle_sha256": "8ebe706a8fe0c41d11666f92a547a3c943382ba43155b55aa026e5363242b1eb"
-    },
-    {
-      "mod_version_id": "085f8766-533e-4ff9-b3b6-adeb5936d7ae",
-      "name": "CZN Main Menu",
-      "version": "v0.1.1-beta",
-      "source": null,
-      "hash": "171291bacc56849f0b7b0f6d7da6eda0a292fbcf9858cf97c1cbdc30b4e6287f",
-      "files": [
-        "CznMainMenu\\CznMainMenu.dll",
-        "CznMainMenu\\CznMainMenu.json",
-        "CznMainMenu\\CznMainMenu.pck"
-      ],
-      "folder_name": "CznMainMenu",
-      "mod_id": "CznMainMenu",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Main_Menu_v0.1.1-beta_de6688f9.zip",
-      "bundle_sha256": "de6688f9afce88fc630bb94756cd691456c1a26eff9927ea8cab64070a80a276"
-    },
-    {
-      "mod_version_id": "37cec65f-fa91-4018-888b-71ae7f8d3642",
-      "name": "CZN Style UI",
-      "version": "v1.1.1-beta",
-      "source": null,
-      "hash": "038b450aa50d2215c335704654ded9fe036c02cfc67a069fb2ad7b7c3100e584",
-      "files": [
-        "CznStyleUI\\CznStyleUI.dll",
-        "CznStyleUI\\CznStyleUI.json",
-        "CznStyleUI\\CznStyleUI.pck"
-      ],
-      "folder_name": "CznStyleUI",
-      "mod_id": "CznStyleUI",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Style_UI_v1.1.1-beta_9fb439f1.zip",
-      "bundle_sha256": "9fb439f149cbed74acd4f053f37590dc9456ce580b0d1c7720149bcbcda8e827"
-    },
-    {
-      "mod_version_id": "e7fff864-cf3a-4539-aff1-e37d3a5c394a",
-      "name": "皮皮统计: Skada",
-      "version": "1.14.7",
-      "source": null,
-      "hash": "52f4050a83d7bacdc6b19e7af28b3a2288706b6f5f5993ec028bf4802255140e",
-      "files": [
-        "DamageMeter\\DamageMeter.dll",
-        "DamageMeter\\DamageMeter.json",
-        "DamageMeter\\DamageMeter.pck"
-      ],
-      "folder_name": "DamageMeter",
-      "mod_id": "DamageMeter",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.7_7046eab0.zip",
-      "bundle_sha256": "7046eab0c5e2078d078594dcbd676df58fb6610910d1511e15be541e6aac0e0b"
-    },
-    {
       "mod_version_id": "fcdba9a5-8e90-4b08-9fd6-b1683b0df1d0",
       "name": "The Red Mage",
       "version": "v0.1.0",
-      "source": null,
+      "source": "nexus:slaythespire2/mods/1372",
       "hash": "bec573ba8334771681e2e9bf3988eaf9008114579ee503bbf3d25b24558f6129",
       "files": [
         "TheRedMage\\TheRedMage.dll",
@@ -354,7 +232,7 @@
       "mod_version_id": "90c701f5-dd46-44d4-b719-3db1fc772e71",
       "name": "Watcher",
       "version": "1.5.9",
-      "source": null,
+      "source": "nexus:slaythespire2/mods/46",
       "hash": "cf907ea32cc38f7ca5f8e76ca93575f03b3fc5127e36337a877590bd635e251e",
       "files": [
         "Watcher\\Watcher.dll",
@@ -371,7 +249,7 @@
       "mod_version_id": "c9a12a23-1f97-4304-8ee4-ba60c4964252",
       "name": "Cloud of Darkness",
       "version": "v0.1.0",
-      "source": null,
+      "source": "nexus:slaythespire2/mods/1379",
       "hash": "fb371155b8e4169109cb327d8bdf7c31fa9f6a28ae88974b4ed02204fc08e92b",
       "files": [
         "CODMod\\CODMod.dll",
@@ -384,9 +262,131 @@
       "enabled": true,
       "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Cloud_of_Darkness_v0.1.0_fd34116d.zip",
       "bundle_sha256": "fd34116de341dea2b15799306e6d567bc7382a31d55229d61679772d59845ea1"
+    },
+    {
+      "mod_version_id": "fff8341c-fa2d-43f7-9e58-92163cc3359d",
+      "name": "Map Overhaul",
+      "version": "0.3.8",
+      "source": "nexus:slaythespire2/mods/1366",
+      "hash": "8d68f0828c3bc1457a51327e9b1cc4a7a63eea5006d3b3e519b59ad97f12355e",
+      "files": [
+        "MapOverhaul\\MapOverhaul.dll",
+        "MapOverhaul\\MapOverhaul.json",
+        "MapOverhaul\\MapOverhaul.pck",
+        "MapOverhaul\\RitsuModConfigAdapter.dll"
+      ],
+      "folder_name": "MapOverhaul",
+      "mod_id": "MapOverhaul",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Map_Overhaul_v0.3.8_8ebe706a.zip",
+      "bundle_sha256": "8ebe706a8fe0c41d11666f92a547a3c943382ba43155b55aa026e5363242b1eb"
+    },
+    {
+      "mod_version_id": "b7ef6c85-67ae-4793-8cde-52b9430666e1",
+      "name": "Highlight Map Points",
+      "version": "1.1",
+      "source": "nexus:slaythespire2/mods/40",
+      "hash": "6181dd198718011425340b0d17c5a1957458c84f4640ca13e6ae505cd93af1bc",
+      "files": [
+        "HighlightMapPoints\\HighlightMapPoints.dll",
+        "HighlightMapPoints\\HighlightMapPoints.json",
+        "HighlightMapPoints\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "HighlightMapPoints",
+      "mod_id": "HighlightMapPoints",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Highlight_Map_Points_v1.1_c70f8857.zip",
+      "bundle_sha256": "c70f8857f1ac64648a9389987817628f9d1fda0877adb7acdb4d05429f923373"
+    },
+    {
+      "mod_version_id": "3a9de7aa-a4b8-4956-ac81-5780eafa78ef",
+      "name": "Relic Rarity Display",
+      "version": "1.1",
+      "source": "nexus:slaythespire2/mods/28",
+      "hash": "3e0f32fe90d01529d0a8293c21bc1910a38297bd079147196ff1c16bf6a722fc",
+      "files": [
+        "RelicRarityDisplay\\mod_manifest.json",
+        "RelicRarityDisplay\\RelicRarityDisplay.dll",
+        "RelicRarityDisplay\\RelicRarityDisplay.pck",
+        "RelicRarityDisplay\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "RelicRarityDisplay",
+      "mod_id": "RelicRarityDisplay",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Relic_Rarity_Display_v1.1_52cbb8e2.zip",
+      "bundle_sha256": "52cbb8e2889af3f7607aa504e002e6349bc49a5e95859b1c47e037164a5997ef"
+    },
+    {
+      "mod_version_id": "4d8b6ec3-099e-4c3f-97b6-3dacf0b09b7a",
+      "name": "Potion Rarity Display",
+      "version": "1.1",
+      "source": "nexus:slaythespire2/mods/30",
+      "hash": "ef3feaa5c169f5c587dbbea85f1385a20238d77d0e52d3096d2dbfdc2cb47fba",
+      "files": [
+        "PotionRarityDisplay\\mod_manifest.json",
+        "PotionRarityDisplay\\PotionRarityDisplay.dll",
+        "PotionRarityDisplay\\PotionRarityDisplay.pck",
+        "PotionRarityDisplay\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "PotionRarityDisplay",
+      "mod_id": "PotionRarityDisplay",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Potion_Rarity_Display_v1.1_e8278f68.zip",
+      "bundle_sha256": "e8278f6842515fcdda40882bb099145a17a0873585f9b68cb8b3008b3f09ddb3"
+    },
+    {
+      "mod_version_id": "e7fff864-cf3a-4539-aff1-e37d3a5c394a",
+      "name": "皮皮统计: Skada",
+      "version": "1.14.7",
+      "source": "nexus:slaythespire2/mods/33",
+      "hash": "52f4050a83d7bacdc6b19e7af28b3a2288706b6f5f5993ec028bf4802255140e",
+      "files": [
+        "DamageMeter\\DamageMeter.dll",
+        "DamageMeter\\DamageMeter.json",
+        "DamageMeter\\DamageMeter.pck"
+      ],
+      "folder_name": "DamageMeter",
+      "mod_id": "DamageMeter",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.7_7046eab0.zip",
+      "bundle_sha256": "7046eab0c5e2078d078594dcbd676df58fb6610910d1511e15be541e6aac0e0b"
+    },
+    {
+      "mod_version_id": "085f8766-533e-4ff9-b3b6-adeb5936d7ae",
+      "name": "CZN Main Menu",
+      "version": "v0.1.1-beta",
+      "source": "nexus:slaythespire2/mods/1402",
+      "hash": "171291bacc56849f0b7b0f6d7da6eda0a292fbcf9858cf97c1cbdc30b4e6287f",
+      "files": [
+        "CznMainMenu\\CznMainMenu.dll",
+        "CznMainMenu\\CznMainMenu.json",
+        "CznMainMenu\\CznMainMenu.pck"
+      ],
+      "folder_name": "CznMainMenu",
+      "mod_id": "CznMainMenu",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Main_Menu_v0.1.1-beta_de6688f9.zip",
+      "bundle_sha256": "de6688f9afce88fc630bb94756cd691456c1a26eff9927ea8cab64070a80a276"
+    },
+    {
+      "mod_version_id": "37cec65f-fa91-4018-888b-71ae7f8d3642",
+      "name": "CZN Style UI",
+      "version": "v1.1.1-beta",
+      "source": "nexus:slaythespire2/mods/1387",
+      "hash": "038b450aa50d2215c335704654ded9fe036c02cfc67a069fb2ad7b7c3100e584",
+      "files": [
+        "CznStyleUI\\CznStyleUI.dll",
+        "CznStyleUI\\CznStyleUI.json",
+        "CznStyleUI\\CznStyleUI.pck"
+      ],
+      "folder_name": "CznStyleUI",
+      "mod_id": "CznStyleUI",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Style_UI_v1.1.1-beta_9fb439f1.zip",
+      "bundle_sha256": "9fb439f149cbed74acd4f053f37590dc9456ce580b0d1c7720149bcbcda8e827"
     }
   ],
   "created_at": "2026-08-02T18:54:21.239645700Z",
-  "updated_at": "2026-08-10T03:31:57.316957900Z",
+  "updated_at": "2026-08-10T03:45:52.857304600Z",
   "public": false
 }
