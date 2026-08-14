@@ -246,6 +246,23 @@
       "bundle_sha256": "1922552759eff9775462ec82f7541c35dcc0295a58e187f26cfaab38ff5a8321"
     },
     {
+      "mod_version_id": "e46e69e5-539b-4c24-8126-65e2e80b15f0",
+      "name": "The Alchemist",
+      "version": "v0.7.0",
+      "source": null,
+      "hash": "ac9794d8cbf16c32e74f1268495c6c2a20225e97a82d812d6c59708d2120c43e",
+      "files": [
+        "Alchemist\\Alchemist.dll",
+        "Alchemist\\Alchemist.json",
+        "Alchemist\\Alchemist.pck"
+      ],
+      "folder_name": "Alchemist",
+      "mod_id": "Alchemist",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/The_Alchemist_v0.7.0_b0bc0649.zip",
+      "bundle_sha256": "b0bc06496055ffcc882831e6e4c6ba678174d7f05eb99cdfa5c403a44864ecc0"
+    },
+    {
       "mod_version_id": "c9a12a23-1f97-4304-8ee4-ba60c4964252",
       "name": "Cloud of Darkness",
       "version": "v0.1.0",
@@ -262,6 +279,23 @@
       "enabled": true,
       "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Cloud_of_Darkness_v0.1.0_fd34116d.zip",
       "bundle_sha256": "fd34116de341dea2b15799306e6d567bc7382a31d55229d61679772d59845ea1"
+    },
+    {
+      "mod_version_id": "6aa4995a-a9b8-47f8-ba22-128a64857192",
+      "name": "Tifa",
+      "version": "v1.0.0",
+      "source": null,
+      "hash": "635114d058fbc4335b07b19697b7d71302dc35cac3e4a4938201540dd43608ad",
+      "files": [
+        "Tifa\\Tifa.dll",
+        "Tifa\\Tifa.json",
+        "Tifa\\Tifa.pck"
+      ],
+      "folder_name": "Tifa",
+      "mod_id": "Tifa",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Tifa_v1.0.0_2fa3e94e.zip",
+      "bundle_sha256": "2fa3e94ea669f45e4847de7327f34389bc845ff15d019bde8b68ebe279a9ea00"
     },
     {
       "mod_version_id": "fff8341c-fa2d-43f7-9e58-92163cc3359d",
@@ -384,43 +418,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Style_UI_v1.2.0-beta_a876e26e.zip",
       "bundle_sha256": "a876e26edc2e95607cb234ef4b06cb910ac50945bf72b579b59b8f0e50571f28"
-    },
-    {
-      "mod_version_id": "e46e69e5-539b-4c24-8126-65e2e80b15f0",
-      "name": "The Alchemist",
-      "version": "v0.7.0",
-      "source": null,
-      "hash": "ac9794d8cbf16c32e74f1268495c6c2a20225e97a82d812d6c59708d2120c43e",
-      "files": [
-        "Alchemist\\Alchemist.dll",
-        "Alchemist\\Alchemist.json",
-        "Alchemist\\Alchemist.pck"
-      ],
-      "folder_name": "Alchemist",
-      "mod_id": "Alchemist",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/The_Alchemist_v0.7.0_b0bc0649.zip",
-      "bundle_sha256": "b0bc06496055ffcc882831e6e4c6ba678174d7f05eb99cdfa5c403a44864ecc0"
-    },
-    {
-      "mod_version_id": "6aa4995a-a9b8-47f8-ba22-128a64857192",
-      "name": "Tifa",
-      "version": "v1.0.0",
-      "source": null,
-      "hash": "635114d058fbc4335b07b19697b7d71302dc35cac3e4a4938201540dd43608ad",
-      "files": [
-        "Tifa\\Tifa.dll",
-        "Tifa\\Tifa.json",
-        "Tifa\\Tifa.pck"
-      ],
-      "folder_name": "Tifa",
-      "mod_id": "Tifa",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Tifa_v1.0.0_2fa3e94e.zip",
-      "bundle_sha256": "2fa3e94ea669f45e4847de7327f34389bc845ff15d019bde8b68ebe279a9ea00"
     }
   ],
   "created_at": "2026-08-02T18:54:21.239645700Z",
-  "updated_at": "2026-08-14T03:24:30.194879600Z",
+  "updated_at": "2026-08-14T03:28:21.262783200Z",
   "public": false
 }
