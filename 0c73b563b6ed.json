@@ -229,6 +229,23 @@
       "bundle_sha256": "0dfbaec57984b37ed77ec57e74e98b683d83cc6b15f0294aa26915e20464817d"
     },
     {
+      "mod_version_id": "90c701f5-dd46-44d4-b719-3db1fc772e71",
+      "name": "Watcher",
+      "version": "1.5.9",
+      "source": "nexus:slaythespire2/mods/46",
+      "hash": "cf907ea32cc38f7ca5f8e76ca93575f03b3fc5127e36337a877590bd635e251e",
+      "files": [
+        "Watcher\\Watcher.dll",
+        "Watcher\\Watcher.json",
+        "Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Watcher_v1.5.9_19225527.zip",
+      "bundle_sha256": "1922552759eff9775462ec82f7541c35dcc0295a58e187f26cfaab38ff5a8321"
+    },
+    {
       "mod_version_id": "c9a12a23-1f97-4304-8ee4-ba60c4964252",
       "name": "Cloud of Darkness",
       "version": "v0.1.0",
@@ -245,24 +262,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Cloud_of_Darkness_v0.1.0_fd34116d.zip",
       "bundle_sha256": "fd34116de341dea2b15799306e6d567bc7382a31d55229d61679772d59845ea1"
-    },
-    {
-      "mod_version_id": "fff8341c-fa2d-43f7-9e58-92163cc3359d",
-      "name": "Map Overhaul",
-      "version": "0.3.8",
-      "source": "nexus:slaythespire2/mods/1366",
-      "hash": "8d68f0828c3bc1457a51327e9b1cc4a7a63eea5006d3b3e519b59ad97f12355e",
-      "files": [
-        "MapOverhaul\\MapOverhaul.dll",
-        "MapOverhaul\\MapOverhaul.json",
-        "MapOverhaul\\MapOverhaul.pck",
-        "MapOverhaul\\RitsuModConfigAdapter.dll"
-      ],
-      "folder_name": "MapOverhaul",
-      "mod_id": "MapOverhaul",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Map_Overhaul_v0.3.8_8ebe706a.zip",
-      "bundle_sha256": "8ebe706a8fe0c41d11666f92a547a3c943382ba43155b55aa026e5363242b1eb"
     },
     {
       "mod_version_id": "b7ef6c85-67ae-4793-8cde-52b9430666e1",
@@ -404,6 +403,6 @@
     }
   ],
   "created_at": "2026-08-02T18:54:21.239645700Z",
-  "updated_at": "2026-08-14T04:46:05.288246300Z",
+  "updated_at": "2026-08-14T05:08:53.690158600Z",
   "public": false
 }
