@@ -22,6 +22,43 @@
       "bundle_sha256": "c3c5f250ea9e18def9e1933d786083ca4f8cdb6d87c80c2b2289bb387caf02f1"
     },
     {
+      "mod_version_id": "460ef529-c3a0-4329-a554-11647818978c",
+      "name": "RitsuLib",
+      "version": "0.5.13",
+      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "hash": "d19b2dd74f6745581208d13f23e97f61ac448324aeeb1a008f15b3b779687baf",
+      "files": [
+        "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.109.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.110.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.111.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\ritsulib-variants.manifest",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.Loader.pdb",
+        "STS2-RitsuLib\\viewer\\assets\\index.css",
+        "STS2-RitsuLib\\viewer\\assets\\index.js",
+        "STS2-RitsuLib\\viewer\\index.html"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.13_0b17880c.zip",
+      "bundle_sha256": "0b17880c73c6f14032b0c768844fbd0a528a93f4f3d20216bb96640343146e0f"
+    },
+    {
       "mod_version_id": "1beff655-9d99-464c-9f9c-e67fa911fac3",
       "name": "皮皮配置: ModConfig",
       "version": "0.2.3",
@@ -37,6 +74,37 @@
       "enabled": true,
       "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_47ca1744.zip",
       "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
+    },
+    {
+      "mod_version_id": "7282a386-15db-4dc9-a76d-3428834176da",
+      "name": "BetterSpire2",
+      "version": "v1.83.8",
+      "source": "github:AlecRichardson/BetterSpire2",
+      "hash": "cd785b008a28cdc37d335ba933a0cc8acc7842a05496da94295855106a3eab75",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.8_593e31cd.zip",
+      "bundle_sha256": "593e31cddd367fc6b952bdba4c9951ae69041c1bb289f8d1433f5228c25fcf71"
     },
     {
       "mod_version_id": "c9a12a23-1f97-4304-8ee4-ba60c4964252",
@@ -195,6 +263,23 @@
       "bundle_sha256": "0dfbaec57984b37ed77ec57e74e98b683d83cc6b15f0294aa26915e20464817d"
     },
     {
+      "mod_version_id": "251e0737-ee92-4afb-9331-625b93d49e27",
+      "name": "Cloud",
+      "version": "v1.0.10",
+      "source": "nexus:slaythespire2/mods/1337",
+      "hash": "fc8ad45355c68d24809aaed04a724cc522e4b7535ebf04f33fed4315b0a135ab",
+      "files": [
+        "Cloud\\Cloud.dll",
+        "Cloud\\Cloud.json",
+        "Cloud\\Cloud.pck"
+      ],
+      "folder_name": "Cloud",
+      "mod_id": "Cloud",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Cloud_v1.0.10_95192138.zip",
+      "bundle_sha256": "95192138e808d0b2debe2d60583c52f0523920d5254940812ddbeaff265a4135"
+    },
+    {
       "mod_version_id": "755706d2-e7f8-4c9e-89b7-0c7a28af1967",
       "name": "Watcher",
       "version": "1.5.10",
@@ -212,35 +297,38 @@
       "bundle_sha256": "41d215ef13d058f008f551466070939660d1d5659034e5c379548be90f737247"
     },
     {
-      "mod_version_id": "7282a386-15db-4dc9-a76d-3428834176da",
-      "name": "BetterSpire2",
-      "version": "v1.83.8",
-      "source": "github:AlecRichardson/BetterSpire2",
-      "hash": "cd785b008a28cdc37d335ba933a0cc8acc7842a05496da94295855106a3eab75",
+      "mod_version_id": "6bdbea36-9d4e-4cd0-81ca-47791d736fa2",
+      "name": "Tifa",
+      "version": "v1.0.10",
+      "source": "nexus:slaythespire2/mods/1440",
+      "hash": "45255ac03481607388f7bc3e50848460bb5c47888635e48f5a3d1ebd26769e44",
       "files": [
-        "BetterSpire2\\BetterSpire2.dll",
-        "BetterSpire2\\BetterSpire2.json",
-        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
-        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
-        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
-        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
-        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
-        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
-        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
-        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
-        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
-        "BetterSpire2\\BetterSpire2_localization\\README.txt",
-        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
-        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
-        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
-        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
-        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+        "Tifa\\Tifa.dll",
+        "Tifa\\Tifa.json",
+        "Tifa\\Tifa.pck"
       ],
-      "folder_name": "BetterSpire2",
-      "mod_id": "BetterSpire2",
+      "folder_name": "Tifa",
+      "mod_id": "Tifa",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.8_593e31cd.zip",
-      "bundle_sha256": "593e31cddd367fc6b952bdba4c9951ae69041c1bb289f8d1433f5228c25fcf71"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Tifa_v1.0.10_bdc08680.zip",
+      "bundle_sha256": "bdc086803dd70b3a7cfd5198cb2fe7b68aa242d89ce9fe82417c74189b638b52"
+    },
+    {
+      "mod_version_id": "7c252ccc-55e2-4173-965d-e89626429bb6",
+      "name": "Sora",
+      "version": "v1.0.8",
+      "source": "nexus:slaythespire2/mods/1407",
+      "hash": "a94cec6b32910301c38bd297a3753924709ec97afd74f64d098c8137844303a6",
+      "files": [
+        "Sora\\Sora.dll",
+        "Sora\\Sora.json",
+        "Sora\\Sora.pck"
+      ],
+      "folder_name": "Sora",
+      "mod_id": "Sora",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Sora_v1.0.8_496e13ac.zip",
+      "bundle_sha256": "496e13ac9f8a29b3800b28cb7a84426c78156674bca98a3e26477aae777b3dc3"
     },
     {
       "mod_version_id": "e7fff864-cf3a-4539-aff1-e37d3a5c394a",
@@ -330,23 +418,6 @@
       "bundle_sha256": "de6688f9afce88fc630bb94756cd691456c1a26eff9927ea8cab64070a80a276"
     },
     {
-      "mod_version_id": "251e0737-ee92-4afb-9331-625b93d49e27",
-      "name": "Cloud",
-      "version": "v1.0.10",
-      "source": "nexus:slaythespire2/mods/1337",
-      "hash": "fc8ad45355c68d24809aaed04a724cc522e4b7535ebf04f33fed4315b0a135ab",
-      "files": [
-        "Cloud\\Cloud.dll",
-        "Cloud\\Cloud.json",
-        "Cloud\\Cloud.pck"
-      ],
-      "folder_name": "Cloud",
-      "mod_id": "Cloud",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Cloud_v1.0.10_95192138.zip",
-      "bundle_sha256": "95192138e808d0b2debe2d60583c52f0523920d5254940812ddbeaff265a4135"
-    },
-    {
       "mod_version_id": "f706a7b0-88b5-421f-b633-26035aed95e5",
       "name": "CZN Enemy Skin",
       "version": "v1.0.1-beta",
@@ -397,80 +468,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Map_Overhaul_v0.3.9_afb3fd22.zip",
       "bundle_sha256": "afb3fd22731cbaaa3ad3f3cc2b7c3f5fb1b38b92a606a625b31bcf16a5628543"
-    },
-    {
-      "mod_version_id": "7c252ccc-55e2-4173-965d-e89626429bb6",
-      "name": "Sora",
-      "version": "v1.0.8",
-      "source": "nexus:slaythespire2/mods/1407",
-      "hash": "a94cec6b32910301c38bd297a3753924709ec97afd74f64d098c8137844303a6",
-      "files": [
-        "Sora\\Sora.dll",
-        "Sora\\Sora.json",
-        "Sora\\Sora.pck"
-      ],
-      "folder_name": "Sora",
-      "mod_id": "Sora",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Sora_v1.0.8_496e13ac.zip",
-      "bundle_sha256": "496e13ac9f8a29b3800b28cb7a84426c78156674bca98a3e26477aae777b3dc3"
-    },
-    {
-      "mod_version_id": "460ef529-c3a0-4329-a554-11647818978c",
-      "name": "RitsuLib",
-      "version": "0.5.13",
-      "source": "github:BAKAOLC/STS2-RitsuLib",
-      "hash": "d19b2dd74f6745581208d13f23e97f61ac448324aeeb1a008f15b3b779687baf",
-      "files": [
-        "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\lib\\0.109.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\lib\\0.110.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\lib\\0.111.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\mod_manifest.json",
-        "STS2-RitsuLib\\ritsulib-variants.manifest",
-        "STS2-RitsuLib\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\STS2-RitsuLib.Loader.pdb",
-        "STS2-RitsuLib\\viewer\\assets\\index.css",
-        "STS2-RitsuLib\\viewer\\assets\\index.js",
-        "STS2-RitsuLib\\viewer\\index.html"
-      ],
-      "folder_name": "STS2-RitsuLib",
-      "mod_id": "STS2-RitsuLib",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.13_0b17880c.zip",
-      "bundle_sha256": "0b17880c73c6f14032b0c768844fbd0a528a93f4f3d20216bb96640343146e0f"
-    },
-    {
-      "mod_version_id": "6bdbea36-9d4e-4cd0-81ca-47791d736fa2",
-      "name": "Tifa",
-      "version": "v1.0.10",
-      "source": "nexus:slaythespire2/mods/1440",
-      "hash": "45255ac03481607388f7bc3e50848460bb5c47888635e48f5a3d1ebd26769e44",
-      "files": [
-        "Tifa\\Tifa.dll",
-        "Tifa\\Tifa.json",
-        "Tifa\\Tifa.pck"
-      ],
-      "folder_name": "Tifa",
-      "mod_id": "Tifa",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Tifa_v1.0.10_bdc08680.zip",
-      "bundle_sha256": "bdc086803dd70b3a7cfd5198cb2fe7b68aa242d89ce9fe82417c74189b638b52"
     }
   ],
   "created_at": "2026-08-14T21:02:03.467637200Z",
-  "updated_at": "2026-08-21T08:12:41.350795900Z",
+  "updated_at": "2026-08-21T08:21:55.406995200Z",
   "public": false
 }
