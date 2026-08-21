@@ -22,43 +22,6 @@
       "bundle_sha256": "c3c5f250ea9e18def9e1933d786083ca4f8cdb6d87c80c2b2289bb387caf02f1"
     },
     {
-      "mod_version_id": "4c3ecfd7-6d94-4f87-9fa6-7725ee0ac95d",
-      "name": "RitsuLib",
-      "version": "0.5.12",
-      "source": "github:BAKAOLC/STS2-RitsuLib",
-      "hash": "b21a93e63179d9edd02a20b22083d029ebc545ce83682d5682efd88ba67e64c8",
-      "files": [
-        "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\lib\\0.109.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\lib\\0.110.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\lib\\0.111.0\\compat-target.txt",
-        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\mod_manifest.json",
-        "STS2-RitsuLib\\ritsulib-variants.manifest",
-        "STS2-RitsuLib\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\STS2-RitsuLib.Loader.pdb",
-        "STS2-RitsuLib\\viewer\\assets\\index.css",
-        "STS2-RitsuLib\\viewer\\assets\\index.js",
-        "STS2-RitsuLib\\viewer\\index.html"
-      ],
-      "folder_name": "STS2-RitsuLib",
-      "mod_id": "STS2-RitsuLib",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.12_ee1d4c2d.zip",
-      "bundle_sha256": "ee1d4c2db47e3baa11e077e2790244f2cfbda0f9df769c69c3bc608ce1ff0e29"
-    },
-    {
       "mod_version_id": "1beff655-9d99-464c-9f9c-e67fa911fac3",
       "name": "皮皮配置: ModConfig",
       "version": "0.2.3",
@@ -74,41 +37,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_47ca1744.zip",
       "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
-    },
-    {
-      "mod_version_id": "fff8341c-fa2d-43f7-9e58-92163cc3359d",
-      "name": "Map Overhaul",
-      "version": "0.3.8",
-      "source": "github:erasels/SpireMapOverhaul",
-      "hash": "8d68f0828c3bc1457a51327e9b1cc4a7a63eea5006d3b3e519b59ad97f12355e",
-      "files": [
-        "MapOverhaul\\MapOverhaul.dll",
-        "MapOverhaul\\MapOverhaul.json",
-        "MapOverhaul\\MapOverhaul.pck",
-        "MapOverhaul\\RitsuModConfigAdapter.dll"
-      ],
-      "folder_name": "MapOverhaul",
-      "mod_id": "MapOverhaul",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Map_Overhaul_v0.3.8_8ebe706a.zip",
-      "bundle_sha256": "8ebe706a8fe0c41d11666f92a547a3c943382ba43155b55aa026e5363242b1eb"
-    },
-    {
-      "mod_version_id": "b3c88f9f-9a07-4d4a-82fb-a098be58e3f9",
-      "name": "Cloud",
-      "version": "v1.0.9",
-      "source": "nexus:slaythespire2/mods/1337",
-      "hash": "4e43783a1ac48f877833efc6c69d0212ec4081d1da74476039c8825ce84c95f7",
-      "files": [
-        "Cloud\\Cloud.dll",
-        "Cloud\\Cloud.json",
-        "Cloud\\Cloud.pck"
-      ],
-      "folder_name": "Cloud",
-      "mod_id": "Cloud",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Cloud_v1.0.9_f90e5799.zip",
-      "bundle_sha256": "f90e5799bc58509fa356a5c32f49b5201695cc6c946ec7c0afc2caacbf3c6557"
     },
     {
       "mod_version_id": "c9a12a23-1f97-4304-8ee4-ba60c4964252",
@@ -199,23 +127,6 @@
       "bundle_sha256": "c9821fa333ffff691d63491e15079278dcdbe3e601315ad20eb7c1ef0805c3f7"
     },
     {
-      "mod_version_id": "446b2779-019f-4193-8ca4-74f24b57968f",
-      "name": "Sora",
-      "version": "v1.0.7",
-      "source": "nexus:slaythespire2/mods/1407",
-      "hash": "083da4ca48608702c80c0ff566764d670030acfbcc4ef107f38e3a59eef0fec1",
-      "files": [
-        "Sora\\Sora.dll",
-        "Sora\\Sora.json",
-        "Sora\\Sora.pck"
-      ],
-      "folder_name": "Sora",
-      "mod_id": "Sora",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Sora_v1.0.7_e36d4bb2.zip",
-      "bundle_sha256": "e36d4bb2c8f6e9754808a065163ec9eb10c74fa7fee86a39798abbcdd55378d4"
-    },
-    {
       "mod_version_id": "b9ca8142-321e-4352-94e8-709b4655fd62",
       "name": "Squall",
       "version": "v1.0.6",
@@ -282,23 +193,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/The_Red_Mage_v0.1.0_0dfbaec5.zip",
       "bundle_sha256": "0dfbaec57984b37ed77ec57e74e98b683d83cc6b15f0294aa26915e20464817d"
-    },
-    {
-      "mod_version_id": "183d0f3e-db02-4b48-addd-e81dfd5812cd",
-      "name": "Tifa",
-      "version": "v1.0.1",
-      "source": "nexus:slaythespire2/mods/1440",
-      "hash": "9b6f2e6669f4044397b4800e260f7fbac5b352a1736a447bb14645a5a8c03712",
-      "files": [
-        "Tifa\\Tifa.dll",
-        "Tifa\\Tifa.json",
-        "Tifa\\Tifa.pck"
-      ],
-      "folder_name": "Tifa",
-      "mod_id": "Tifa",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Tifa_v1.0.1_1d831a84.zip",
-      "bundle_sha256": "1d831a84f89b92344dd926587f104fade67f3ee9ddccb5660c5108983c057b82"
     },
     {
       "mod_version_id": "755706d2-e7f8-4c9e-89b7-0c7a28af1967",
@@ -419,23 +313,6 @@
       "bundle_sha256": "52cbb8e2889af3f7607aa504e002e6349bc49a5e95859b1c47e037164a5997ef"
     },
     {
-      "mod_version_id": "095d8c81-2750-4008-a60b-5e476e60fdc8",
-      "name": "CZN Style UI",
-      "version": "v1.1.1-beta",
-      "source": "nexus:slaythespire2/mods/1387",
-      "hash": "038b450aa50d2215c335704654ded9fe036c02cfc67a069fb2ad7b7c3100e584",
-      "files": [
-        "CznStyleUI\\CznStyleUI.dll",
-        "CznStyleUI\\CznStyleUI.json",
-        "CznStyleUI\\CznStyleUI.pck"
-      ],
-      "folder_name": "CznStyleUI",
-      "mod_id": "CznStyleUI",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Style_UI_v1.1.1-beta_9fb439f1.zip",
-      "bundle_sha256": "9fb439f149cbed74acd4f053f37590dc9456ce580b0d1c7720149bcbcda8e827"
-    },
-    {
       "mod_version_id": "085f8766-533e-4ff9-b3b6-adeb5936d7ae",
       "name": "CZN Main Menu",
       "version": "v0.1.1-beta",
@@ -451,9 +328,149 @@
       "enabled": true,
       "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Main_Menu_v0.1.1-beta_de6688f9.zip",
       "bundle_sha256": "de6688f9afce88fc630bb94756cd691456c1a26eff9927ea8cab64070a80a276"
+    },
+    {
+      "mod_version_id": "251e0737-ee92-4afb-9331-625b93d49e27",
+      "name": "Cloud",
+      "version": "v1.0.10",
+      "source": "nexus:slaythespire2/mods/1337",
+      "hash": "fc8ad45355c68d24809aaed04a724cc522e4b7535ebf04f33fed4315b0a135ab",
+      "files": [
+        "Cloud\\Cloud.dll",
+        "Cloud\\Cloud.json",
+        "Cloud\\Cloud.pck"
+      ],
+      "folder_name": "Cloud",
+      "mod_id": "Cloud",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Cloud_v1.0.10_95192138.zip",
+      "bundle_sha256": "95192138e808d0b2debe2d60583c52f0523920d5254940812ddbeaff265a4135"
+    },
+    {
+      "mod_version_id": "f706a7b0-88b5-421f-b633-26035aed95e5",
+      "name": "CZN Enemy Skin",
+      "version": "v1.0.1-beta",
+      "source": null,
+      "hash": "d4a0c52e16f47e0d933d5ee58dd87169bac199b5350f09c4f885d2b33f24f0fa",
+      "files": [
+        "CznEnemySkin\\CznEnemySkin.dll",
+        "CznEnemySkin\\CznEnemySkin.json",
+        "CznEnemySkin\\CznEnemySkin.pck"
+      ],
+      "folder_name": "CznEnemySkin",
+      "mod_id": "CznEnemySkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Enemy_Skin_v1.0.1-beta_3b2e7f12.zip",
+      "bundle_sha256": "3b2e7f125451523439dd91e5e5bd1befbe8d9cc86a3f2a6cf40610fae30dcba0"
+    },
+    {
+      "mod_version_id": "6328c824-c4c5-4e4f-8799-35ad595e5242",
+      "name": "CZN Style UI",
+      "version": "v1.2.1-beta",
+      "source": "nexus:slaythespire2/mods/1387",
+      "hash": "ac546b51e0944a24648be9bd7af1c444c0010325abd4f4f1eb1124ef4c5e9379",
+      "files": [
+        "CznStyleUI\\CznStyleUI.dll",
+        "CznStyleUI\\CznStyleUI.json",
+        "CznStyleUI\\CznStyleUI.pck"
+      ],
+      "folder_name": "CznStyleUI",
+      "mod_id": "CznStyleUI",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Style_UI_v1.2.1-beta_8705ee49.zip",
+      "bundle_sha256": "8705ee4964df045313a7d883dbc0254939209cdb1be6dc7c144ced5a2ceba529"
+    },
+    {
+      "mod_version_id": "7650f466-1b4e-4a1c-95f5-73456e3fd86d",
+      "name": "Map Overhaul",
+      "version": "0.3.9",
+      "source": "github:erasels/SpireMapOverhaul",
+      "hash": "b92ab26613de84a5b59763ebdb7d5d71216a4dcd751536dd1cc8e849226ce590",
+      "files": [
+        "MapOverhaul\\MapOverhaul.dll",
+        "MapOverhaul\\MapOverhaul.json",
+        "MapOverhaul\\MapOverhaul.pck",
+        "MapOverhaul\\RitsuModConfigAdapter.dll"
+      ],
+      "folder_name": "MapOverhaul",
+      "mod_id": "MapOverhaul",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Map_Overhaul_v0.3.9_afb3fd22.zip",
+      "bundle_sha256": "afb3fd22731cbaaa3ad3f3cc2b7c3f5fb1b38b92a606a625b31bcf16a5628543"
+    },
+    {
+      "mod_version_id": "7c252ccc-55e2-4173-965d-e89626429bb6",
+      "name": "Sora",
+      "version": "v1.0.8",
+      "source": "nexus:slaythespire2/mods/1407",
+      "hash": "a94cec6b32910301c38bd297a3753924709ec97afd74f64d098c8137844303a6",
+      "files": [
+        "Sora\\Sora.dll",
+        "Sora\\Sora.json",
+        "Sora\\Sora.pck"
+      ],
+      "folder_name": "Sora",
+      "mod_id": "Sora",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Sora_v1.0.8_496e13ac.zip",
+      "bundle_sha256": "496e13ac9f8a29b3800b28cb7a84426c78156674bca98a3e26477aae777b3dc3"
+    },
+    {
+      "mod_version_id": "460ef529-c3a0-4329-a554-11647818978c",
+      "name": "RitsuLib",
+      "version": "0.5.13",
+      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "hash": "d19b2dd74f6745581208d13f23e97f61ac448324aeeb1a008f15b3b779687baf",
+      "files": [
+        "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.109.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.110.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.111.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\ritsulib-variants.manifest",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.Loader.pdb",
+        "STS2-RitsuLib\\viewer\\assets\\index.css",
+        "STS2-RitsuLib\\viewer\\assets\\index.js",
+        "STS2-RitsuLib\\viewer\\index.html"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.13_0b17880c.zip",
+      "bundle_sha256": "0b17880c73c6f14032b0c768844fbd0a528a93f4f3d20216bb96640343146e0f"
+    },
+    {
+      "mod_version_id": "6bdbea36-9d4e-4cd0-81ca-47791d736fa2",
+      "name": "Tifa",
+      "version": "v1.0.10",
+      "source": "nexus:slaythespire2/mods/1440",
+      "hash": "45255ac03481607388f7bc3e50848460bb5c47888635e48f5a3d1ebd26769e44",
+      "files": [
+        "Tifa\\Tifa.dll",
+        "Tifa\\Tifa.json",
+        "Tifa\\Tifa.pck"
+      ],
+      "folder_name": "Tifa",
+      "mod_id": "Tifa",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Tifa_v1.0.10_bdc08680.zip",
+      "bundle_sha256": "bdc086803dd70b3a7cfd5198cb2fe7b68aa242d89ce9fe82417c74189b638b52"
     }
   ],
   "created_at": "2026-08-14T21:02:03.467637200Z",
-  "updated_at": "2026-08-14T21:08:03.575113200Z",
+  "updated_at": "2026-08-21T08:12:41.350795900Z",
   "public": false
 }
