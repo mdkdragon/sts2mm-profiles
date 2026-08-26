@@ -314,6 +314,23 @@
       "bundle_sha256": "c798ed8354bd4cbe4c9d748358533397974001febc0cc6c57c9dd0aca81720ef"
     },
     {
+      "mod_version_id": "96bccd3e-b70e-43b4-929e-484423e1020d",
+      "name": "Ace",
+      "version": "v1.0.1",
+      "source": null,
+      "hash": "dbb5bfbef32d7219f938211dcac3c91a733d379f56b6887a95fa502e9f294b5d",
+      "files": [
+        "Ace\\Ace.dll",
+        "Ace\\Ace.json",
+        "Ace\\Ace.pck"
+      ],
+      "folder_name": "Ace",
+      "mod_id": "Ace",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Ace_v1.0.1_ccda76a5.zip",
+      "bundle_sha256": "ccda76a5059156ed37519ed0d24f6388b48ede028c140f276f7f72c7d8afb0b4"
+    },
+    {
       "mod_version_id": "b7ef6c85-67ae-4793-8cde-52b9430666e1",
       "name": "Highlight Map Points",
       "version": "1.1",
@@ -434,26 +451,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Map_Overhaul_v0.3.9_afb3fd22.zip",
       "bundle_sha256": "afb3fd22731cbaaa3ad3f3cc2b7c3f5fb1b38b92a606a625b31bcf16a5628543"
-    },
-    {
-      "mod_version_id": "96bccd3e-b70e-43b4-929e-484423e1020d",
-      "name": "Ace",
-      "version": "v1.0.1",
-      "source": null,
-      "hash": "dbb5bfbef32d7219f938211dcac3c91a733d379f56b6887a95fa502e9f294b5d",
-      "files": [
-        "Ace\\Ace.dll",
-        "Ace\\Ace.json",
-        "Ace\\Ace.pck"
-      ],
-      "folder_name": "Ace",
-      "mod_id": "Ace",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Ace_v1.0.1_ccda76a5.zip",
-      "bundle_sha256": "ccda76a5059156ed37519ed0d24f6388b48ede028c140f276f7f72c7d8afb0b4"
     }
   ],
   "created_at": "2026-08-14T21:02:03.467637200Z",
-  "updated_at": "2026-08-26T04:22:53.465437900Z",
+  "updated_at": "2026-08-26T04:27:06.956819900Z",
   "public": false
 }
