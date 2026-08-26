@@ -177,11 +177,11 @@
       "bundle_sha256": "c9821fa333ffff691d63491e15079278dcdbe3e601315ad20eb7c1ef0805c3f7"
     },
     {
-      "mod_version_id": "b9ca8142-321e-4352-94e8-709b4655fd62",
+      "mod_version_id": "727f2a66-5b47-4ceb-bb22-6304d5c81325",
       "name": "Squall",
-      "version": "v1.0.6",
+      "version": "v1.0.7",
       "source": "nexus:slaythespire2/mods/1397",
-      "hash": "0ed9aeab81bb6bcf69bee375c06d82d5f32a04eaad83f88cb8775793b608483e",
+      "hash": "db8925854d4b3a33124016853a4b245177fc4179197aabc0b5b38c877f04f14e",
       "files": [
         "Squall\\Squall.dll",
         "Squall\\Squall.json",
@@ -190,15 +190,15 @@
       "folder_name": "Squall",
       "mod_id": "Squall",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Squall_v1.0.6_fb60ae95.zip",
-      "bundle_sha256": "fb60ae95634770ceafde2d0b6e26dc7f60e756a77813e21bde728aac65d57548"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Squall_v1.0.7_93fa5fe5.zip",
+      "bundle_sha256": "93fa5fe539f01113b8ca268283ed58b15be11b625ad5fb3c8c4d861e05d835c3"
     },
     {
-      "mod_version_id": "b1916b3e-f526-49d7-837c-66e8628af77d",
+      "mod_version_id": "ccd6c1e5-97e1-4416-ab92-1af1ffe2777f",
       "name": "The Alchemist",
-      "version": "v0.8.0",
+      "version": "v0.13.0",
       "source": "nexus:slaythespire2/mods/1439",
-      "hash": "62b3de87c78825900a08a823dcfe0844b2eba2254e6ae8d1fa4faa800d6918f2",
+      "hash": "8d72b7a2e986a7a1f3a0448b675299d7b76e4f479248b2f8b17fd9a0a6bd9d5b",
       "files": [
         "Alchemist\\Alchemist.dll",
         "Alchemist\\Alchemist.json",
@@ -207,8 +207,8 @@
       "folder_name": "Alchemist",
       "mod_id": "Alchemist",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/The_Alchemist_v0.8.0_eea19307.zip",
-      "bundle_sha256": "eea193071c582cf1bfe73dc287adc8fbd27cae55f664e0e57b651e2fe8826c77"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/The_Alchemist_v0.13.0_7a3cf398.zip",
+      "bundle_sha256": "7a3cf3981693cd48f80d955bcb2ca94ce62ef4a84000a16c9717f7c3eeb8bc0b"
     },
     {
       "mod_version_id": "cc520ebd-5cd5-4e6a-8ab6-e7ec750a7194",
@@ -228,28 +228,11 @@
       "bundle_sha256": "6b48263a6b4c16a058356a4d977a9a936e66acbf678a714f39ace777dfa8159d"
     },
     {
-      "mod_version_id": "fcdba9a5-8e90-4b08-9fd6-b1683b0df1d0",
-      "name": "The Red Mage",
-      "version": "v0.1.0",
-      "source": "nexus:slaythespire2/mods/1372",
-      "hash": "bec573ba8334771681e2e9bf3988eaf9008114579ee503bbf3d25b24558f6129",
-      "files": [
-        "TheRedMage\\TheRedMage.dll",
-        "TheRedMage\\TheRedMage.json",
-        "TheRedMage\\TheRedMage.pck"
-      ],
-      "folder_name": "TheRedMage",
-      "mod_id": "TheRedMage",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/The_Red_Mage_v0.1.0_0dfbaec5.zip",
-      "bundle_sha256": "0dfbaec57984b37ed77ec57e74e98b683d83cc6b15f0294aa26915e20464817d"
-    },
-    {
-      "mod_version_id": "251e0737-ee92-4afb-9331-625b93d49e27",
+      "mod_version_id": "6c14078b-331c-4336-8e94-17def508bc87",
       "name": "Cloud",
-      "version": "v1.0.10",
+      "version": "v1.0.11",
       "source": "nexus:slaythespire2/mods/1337",
-      "hash": "fc8ad45355c68d24809aaed04a724cc522e4b7535ebf04f33fed4315b0a135ab",
+      "hash": "8063c1179b739e728a6acc12530b3c5cfd0461c83e6c1a93bb32ef8d6a01a6bd",
       "files": [
         "Cloud\\Cloud.dll",
         "Cloud\\Cloud.json",
@@ -258,8 +241,8 @@
       "folder_name": "Cloud",
       "mod_id": "Cloud",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Cloud_v1.0.10_95192138.zip",
-      "bundle_sha256": "95192138e808d0b2debe2d60583c52f0523920d5254940812ddbeaff265a4135"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Cloud_v1.0.11_a7ea7d7f.zip",
+      "bundle_sha256": "a7ea7d7fcdfaafdefd3f0696a16e5beae13d7dafd0776abc978caa46f5ce4d33"
     },
     {
       "mod_version_id": "755706d2-e7f8-4c9e-89b7-0c7a28af1967",
@@ -279,11 +262,11 @@
       "bundle_sha256": "41d215ef13d058f008f551466070939660d1d5659034e5c379548be90f737247"
     },
     {
-      "mod_version_id": "6bdbea36-9d4e-4cd0-81ca-47791d736fa2",
+      "mod_version_id": "50781368-89d7-4228-b08a-895c7ddb0802",
       "name": "Tifa",
       "version": "v1.0.10",
       "source": "nexus:slaythespire2/mods/1440",
-      "hash": "45255ac03481607388f7bc3e50848460bb5c47888635e48f5a3d1ebd26769e44",
+      "hash": "5e94ea9707a90ef8a0d1136513962c06bf135c751decd37d40024b3b23046129",
       "files": [
         "Tifa\\Tifa.dll",
         "Tifa\\Tifa.json",
@@ -292,15 +275,33 @@
       "folder_name": "Tifa",
       "mod_id": "Tifa",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Tifa_v1.0.10_bdc08680.zip",
-      "bundle_sha256": "bdc086803dd70b3a7cfd5198cb2fe7b68aa242d89ce9fe82417c74189b638b52"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Tifa_v1.0.10_bbb4d379.zip",
+      "bundle_sha256": "bbb4d37989e8294ba6747aebaea3985d882e19479f8c84f7be95462b1987023a"
     },
     {
-      "mod_version_id": "7c252ccc-55e2-4173-965d-e89626429bb6",
+      "mod_version_id": "5c6cd7af-dcaf-4b34-b75f-10206b00f57b",
+      "name": "Edea",
+      "version": "v1.1.2",
+      "source": "github:bupaverse/edeaR",
+      "hash": "450086c2eb0d08b07be87414bf22c46da5d2931e943cda34c018daf285a538d7",
+      "files": [
+        "EdeaMod\\EdeaMod.dll",
+        "EdeaMod\\EdeaMod.json",
+        "EdeaMod\\EdeaMod.pck",
+        "EdeaMod\\EdeaMod.pdb"
+      ],
+      "folder_name": "EdeaMod",
+      "mod_id": "EdeaMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Edea_v1.1.2_893661c5.zip",
+      "bundle_sha256": "893661c547c93f211666ec564fb7e42b5c0025c67be4bcdca7a907410d7a56e1"
+    },
+    {
+      "mod_version_id": "9a59b77e-4c97-415b-a624-76c7596879a3",
       "name": "Sora",
-      "version": "v1.0.8",
+      "version": "v1.0.10",
       "source": "nexus:slaythespire2/mods/1407",
-      "hash": "a94cec6b32910301c38bd297a3753924709ec97afd74f64d098c8137844303a6",
+      "hash": "788d1d7ee914a9b27a5e5f9cf38cc29e569b838ffdb2df3c91bd634deadc19d8",
       "files": [
         "Sora\\Sora.dll",
         "Sora\\Sora.json",
@@ -309,25 +310,8 @@
       "folder_name": "Sora",
       "mod_id": "Sora",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Sora_v1.0.8_496e13ac.zip",
-      "bundle_sha256": "496e13ac9f8a29b3800b28cb7a84426c78156674bca98a3e26477aae777b3dc3"
-    },
-    {
-      "mod_version_id": "e7fff864-cf3a-4539-aff1-e37d3a5c394a",
-      "name": "皮皮统计: Skada",
-      "version": "1.14.7",
-      "source": "nexus:slaythespire2/mods/33",
-      "hash": "52f4050a83d7bacdc6b19e7af28b3a2288706b6f5f5993ec028bf4802255140e",
-      "files": [
-        "DamageMeter\\DamageMeter.dll",
-        "DamageMeter\\DamageMeter.json",
-        "DamageMeter\\DamageMeter.pck"
-      ],
-      "folder_name": "DamageMeter",
-      "mod_id": "DamageMeter",
-      "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.7_7046eab0.zip",
-      "bundle_sha256": "7046eab0c5e2078d078594dcbd676df58fb6610910d1511e15be541e6aac0e0b"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Sora_v1.0.10_c798ed83.zip",
+      "bundle_sha256": "c798ed8354bd4cbe4c9d748358533397974001febc0cc6c57c9dd0aca81720ef"
     },
     {
       "mod_version_id": "b7ef6c85-67ae-4793-8cde-52b9430666e1",
@@ -383,11 +367,11 @@
       "bundle_sha256": "52cbb8e2889af3f7607aa504e002e6349bc49a5e95859b1c47e037164a5997ef"
     },
     {
-      "mod_version_id": "085f8766-533e-4ff9-b3b6-adeb5936d7ae",
+      "mod_version_id": "a5b1c416-ffc3-4854-ae8a-e81406ab1ea8",
       "name": "CZN Main Menu",
-      "version": "v0.1.1-beta",
+      "version": "v0.1.2-beta",
       "source": "nexus:slaythespire2/mods/1402",
-      "hash": "171291bacc56849f0b7b0f6d7da6eda0a292fbcf9858cf97c1cbdc30b4e6287f",
+      "hash": "f18b0d26962047d9b278b67241117d0448c739f0ca1eb40e74938cfb8edbd25c",
       "files": [
         "CznMainMenu\\CznMainMenu.dll",
         "CznMainMenu\\CznMainMenu.json",
@@ -396,15 +380,15 @@
       "folder_name": "CznMainMenu",
       "mod_id": "CznMainMenu",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Main_Menu_v0.1.1-beta_de6688f9.zip",
-      "bundle_sha256": "de6688f9afce88fc630bb94756cd691456c1a26eff9927ea8cab64070a80a276"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Main_Menu_v0.1.2-beta_71bd25b2.zip",
+      "bundle_sha256": "71bd25b2d17652d9b91ee80eb063eabfefcc205c5fbe3f0a7d56da0ebcdc3ccc"
     },
     {
-      "mod_version_id": "f706a7b0-88b5-421f-b633-26035aed95e5",
+      "mod_version_id": "659b76a1-9719-45af-bb93-0f81c01b26d1",
       "name": "CZN Enemy Skin",
-      "version": "v1.0.1-beta",
+      "version": "v1.0.2-beta",
       "source": null,
-      "hash": "d4a0c52e16f47e0d933d5ee58dd87169bac199b5350f09c4f885d2b33f24f0fa",
+      "hash": "422865dca55b865527f3b88b42f8d4e2d7f95ea4d34f37cf40c15b5995e6e690",
       "files": [
         "CznEnemySkin\\CznEnemySkin.dll",
         "CznEnemySkin\\CznEnemySkin.json",
@@ -413,8 +397,8 @@
       "folder_name": "CznEnemySkin",
       "mod_id": "CznEnemySkin",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Enemy_Skin_v1.0.1-beta_3b2e7f12.zip",
-      "bundle_sha256": "3b2e7f125451523439dd91e5e5bd1befbe8d9cc86a3f2a6cf40610fae30dcba0"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Enemy_Skin_v1.0.2-beta_dfdd1eaf.zip",
+      "bundle_sha256": "dfdd1eaf311f402049fa6c0e76fb99dcc0ba2b8babc96a53cacbd9cf055861e0"
     },
     {
       "mod_version_id": "6328c824-c4c5-4e4f-8799-35ad595e5242",
@@ -452,25 +436,24 @@
       "bundle_sha256": "afb3fd22731cbaaa3ad3f3cc2b7c3f5fb1b38b92a606a625b31bcf16a5628543"
     },
     {
-      "mod_version_id": "5c6cd7af-dcaf-4b34-b75f-10206b00f57b",
-      "name": "Edea",
-      "version": "v1.1.2",
-      "source": "github:bupaverse/edeaR",
-      "hash": "450086c2eb0d08b07be87414bf22c46da5d2931e943cda34c018daf285a538d7",
+      "mod_version_id": "96bccd3e-b70e-43b4-929e-484423e1020d",
+      "name": "Ace",
+      "version": "v1.0.1",
+      "source": null,
+      "hash": "dbb5bfbef32d7219f938211dcac3c91a733d379f56b6887a95fa502e9f294b5d",
       "files": [
-        "EdeaMod\\EdeaMod.dll",
-        "EdeaMod\\EdeaMod.json",
-        "EdeaMod\\EdeaMod.pck",
-        "EdeaMod\\EdeaMod.pdb"
+        "Ace\\Ace.dll",
+        "Ace\\Ace.json",
+        "Ace\\Ace.pck"
       ],
-      "folder_name": "EdeaMod",
-      "mod_id": "EdeaMod",
+      "folder_name": "Ace",
+      "mod_id": "Ace",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Edea_v1.1.2_893661c5.zip",
-      "bundle_sha256": "893661c547c93f211666ec564fb7e42b5c0025c67be4bcdca7a907410d7a56e1"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Ace_v1.0.1_ccda76a5.zip",
+      "bundle_sha256": "ccda76a5059156ed37519ed0d24f6388b48ede028c140f276f7f72c7d8afb0b4"
     }
   ],
   "created_at": "2026-08-14T21:02:03.467637200Z",
-  "updated_at": "2026-08-21T08:26:31.193838100Z",
+  "updated_at": "2026-08-26T04:22:53.465437900Z",
   "public": false
 }
