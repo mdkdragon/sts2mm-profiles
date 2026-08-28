@@ -22,12 +22,13 @@
       "bundle_sha256": "c3c5f250ea9e18def9e1933d786083ca4f8cdb6d87c80c2b2289bb387caf02f1"
     },
     {
-      "mod_version_id": "460ef529-c3a0-4329-a554-11647818978c",
+      "mod_version_id": "969934cd-125e-40dd-98df-9fcad82745bb",
       "name": "RitsuLib",
-      "version": "0.5.13",
+      "version": "0.5.16",
       "source": "github:BAKAOLC/STS2-RitsuLib",
-      "hash": "d19b2dd74f6745581208d13f23e97f61ac448324aeeb1a008f15b3b779687baf",
+      "hash": "8b47b08583e44477326eee6f65264f9cfc8cf13e0422d19e2b5a95723efb6423",
       "files": [
+        "STS2-RitsuLib\\compat-target.txt",
         "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
         "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
         "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.pdb",
@@ -55,8 +56,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.13_0b17880c.zip",
-      "bundle_sha256": "0b17880c73c6f14032b0c768844fbd0a528a93f4f3d20216bb96640343146e0f"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.16_915c0165.zip",
+      "bundle_sha256": "915c016553631e1156815ab3d814aff223602eb2cf633313a8b3bf62fe0fa9aa"
     },
     {
       "mod_version_id": "1beff655-9d99-464c-9f9c-e67fa911fac3",
@@ -194,11 +195,11 @@
       "bundle_sha256": "93fa5fe539f01113b8ca268283ed58b15be11b625ad5fb3c8c4d861e05d835c3"
     },
     {
-      "mod_version_id": "ccd6c1e5-97e1-4416-ab92-1af1ffe2777f",
+      "mod_version_id": "605ea94b-c222-49af-827a-c7c5eabcdc78",
       "name": "The Alchemist",
-      "version": "v0.13.0",
-      "source": "nexus:slaythespire2/mods/1439",
-      "hash": "8d72b7a2e986a7a1f3a0448b675299d7b76e4f479248b2f8b17fd9a0a6bd9d5b",
+      "version": "v0.13.3",
+      "source": "github:sethmcleod/sts2-the-alchemist",
+      "hash": "1c091afed0a199b4975b570943424b754cf7aade45d20b75d50e5cfa61691230",
       "files": [
         "Alchemist\\Alchemist.dll",
         "Alchemist\\Alchemist.json",
@@ -207,8 +208,8 @@
       "folder_name": "Alchemist",
       "mod_id": "Alchemist",
       "enabled": true,
-      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/The_Alchemist_v0.13.0_7a3cf398.zip",
-      "bundle_sha256": "7a3cf3981693cd48f80d955bcb2ca94ce62ef4a84000a16c9717f7c3eeb8bc0b"
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/The_Alchemist_v0.13.3_7dc371a6.zip",
+      "bundle_sha256": "7dc371a6c86b8e4ef5c6c4bbc1811d329e436c430696c029ee91f8672e5140dc"
     },
     {
       "mod_version_id": "cc520ebd-5cd5-4e6a-8ab6-e7ec750a7194",
@@ -454,6 +455,6 @@
     }
   ],
   "created_at": "2026-08-14T21:02:03.467637200Z",
-  "updated_at": "2026-08-26T04:27:06.956819900Z",
+  "updated_at": "2026-08-27T23:55:54.950595500Z",
   "public": false
 }
