@@ -1,0 +1,459 @@
+{
+  "id": "c19898c4-aa5a-44cd-9d97-dbb392263b85",
+  "name": "Dragonite Beta Branch Mods",
+  "game_version": "0.111.0",
+  "created_by": "mdkdragon",
+  "mods": [
+    {
+      "mod_version_id": "a64d2122-0607-4d9e-9de7-9536d262cd52",
+      "name": "BaseLib",
+      "version": "v3.4.5",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "ad2f89e43e8b31debfab65d783353d9429eba59a2cfe904ff933a894ce79d32e",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.5_c3c5f250.zip",
+      "bundle_sha256": "c3c5f250ea9e18def9e1933d786083ca4f8cdb6d87c80c2b2289bb387caf02f1"
+    },
+    {
+      "mod_version_id": "862b1043-9ddf-40fd-921c-39c7fae058b4",
+      "name": "RitsuLib",
+      "version": "0.5.17",
+      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "hash": "809c667af7547f9881551a6ec9187a8887a11f4e2469778fedd75814f18b1f94",
+      "files": [
+        "STS2-RitsuLib\\lib\\0.107.1\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.107.1\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.109.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.109.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.110.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.110.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.111.0\\compat-target.txt",
+        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.111.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\ritsulib-variants.manifest",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.Loader.pdb",
+        "STS2-RitsuLib\\viewer\\assets\\index.css",
+        "STS2-RitsuLib\\viewer\\assets\\index.js",
+        "STS2-RitsuLib\\viewer\\index.html"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.17_7f12dee9.zip",
+      "bundle_sha256": "7f12dee9b4303880ef771db0737806f6d183b318cfd91485fdcee53bff43c66d"
+    },
+    {
+      "mod_version_id": "1beff655-9d99-464c-9f9c-e67fa911fac3",
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": "github:xhyrzldf/ModConfig-STS2",
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_47ca1744.zip",
+      "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
+    },
+    {
+      "mod_version_id": "7282a386-15db-4dc9-a76d-3428834176da",
+      "name": "BetterSpire2",
+      "version": "v1.83.8",
+      "source": "github:AlecRichardson/BetterSpire2",
+      "hash": "cd785b008a28cdc37d335ba933a0cc8acc7842a05496da94295855106a3eab75",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.8_593e31cd.zip",
+      "bundle_sha256": "593e31cddd367fc6b952bdba4c9951ae69041c1bb289f8d1433f5228c25fcf71"
+    },
+    {
+      "mod_version_id": "c9a12a23-1f97-4304-8ee4-ba60c4964252",
+      "name": "Cloud of Darkness",
+      "version": "v0.1.0",
+      "source": "nexus:slaythespire2/mods/1379",
+      "hash": "fb371155b8e4169109cb327d8bdf7c31fa9f6a28ae88974b4ed02204fc08e92b",
+      "files": [
+        "CODMod\\CODMod.dll",
+        "CODMod\\CODMod.json",
+        "CODMod\\CODMod.pck",
+        "CODMod\\CODMod.pdb"
+      ],
+      "folder_name": "CODMod",
+      "mod_id": "CODMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Cloud_of_Darkness_v0.1.0_fd34116d.zip",
+      "bundle_sha256": "fd34116de341dea2b15799306e6d567bc7382a31d55229d61679772d59845ea1"
+    },
+    {
+      "mod_version_id": "6fb95b6d-4afd-42fe-a914-fb88c78fc536",
+      "name": "KaLi mod",
+      "version": "0.9.9.3",
+      "source": "nexus:slaythespire2/mods/950",
+      "hash": "45be015cc64f57c90047584d6c64014384b7cabefd1a740935622f5fd6105ada",
+      "files": [
+        "KaLi_mod\\KaLi.json",
+        "KaLi_mod\\KaLi_mod.dll",
+        "KaLi_mod\\KaLi_mod.pck"
+      ],
+      "folder_name": "KaLi_mod",
+      "mod_id": "KaLi_mod",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/KaLi_mod_v0.9.9.3_53a6135a.zip",
+      "bundle_sha256": "53a6135aeabe1c5ad7d151f823a57bddd2a02a7b12b6ac607d4ae81bec8b9f44"
+    },
+    {
+      "mod_version_id": "6839889b-83b9-4e50-9483-643e87fbcae8",
+      "name": "Overlord Laharl",
+      "version": "v1.0.2",
+      "source": "nexus:slaythespire2/mods/824",
+      "hash": "b7d37bd5ce1bb5ced1b52af2adbc99005195348a479c32d1f5c8ab79d519f084",
+      "files": [
+        "Laharl\\Laharl.dll",
+        "Laharl\\Laharl.json",
+        "Laharl\\Laharl.pck"
+      ],
+      "folder_name": "Laharl",
+      "mod_id": "Laharl",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Overlord_Laharl_v1.0.2_c6bbcf0e.zip",
+      "bundle_sha256": "c6bbcf0edaa77c4a34ff461486cc3308bb089e3d0b03868836a03ab5d545fe7c"
+    },
+    {
+      "mod_version_id": "211ff3f2-e201-4f7e-a6ed-43a3a3f96831",
+      "name": "SephirothMod",
+      "version": "v22.0.2",
+      "source": "nexus:slaythespire2/mods/1380",
+      "hash": "4736f8cd6e2562db5c5869de68df11d4de3f9a321a468e7afe6c34818ba38da7",
+      "files": [
+        "SephirothMod\\SephirothMod.dll",
+        "SephirothMod\\SephirothMod.json",
+        "SephirothMod\\SephirothMod.pck",
+        "SephirothMod\\SephirothMod.pdb"
+      ],
+      "folder_name": "SephirothMod",
+      "mod_id": "SephirothMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/SephirothMod_v22.0.2_c9821fa3.zip",
+      "bundle_sha256": "c9821fa333ffff691d63491e15079278dcdbe3e601315ad20eb7c1ef0805c3f7"
+    },
+    {
+      "mod_version_id": "727f2a66-5b47-4ceb-bb22-6304d5c81325",
+      "name": "Squall",
+      "version": "v1.0.7",
+      "source": "nexus:slaythespire2/mods/1397",
+      "hash": "db8925854d4b3a33124016853a4b245177fc4179197aabc0b5b38c877f04f14e",
+      "files": [
+        "Squall\\Squall.dll",
+        "Squall\\Squall.json",
+        "Squall\\Squall.pck"
+      ],
+      "folder_name": "Squall",
+      "mod_id": "Squall",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Squall_v1.0.7_93fa5fe5.zip",
+      "bundle_sha256": "93fa5fe539f01113b8ca268283ed58b15be11b625ad5fb3c8c4d861e05d835c3"
+    },
+    {
+      "mod_version_id": "605ea94b-c222-49af-827a-c7c5eabcdc78",
+      "name": "The Alchemist",
+      "version": "v0.13.3",
+      "source": "github:sethmcleod/sts2-the-alchemist",
+      "hash": "1c091afed0a199b4975b570943424b754cf7aade45d20b75d50e5cfa61691230",
+      "files": [
+        "Alchemist\\Alchemist.dll",
+        "Alchemist\\Alchemist.json",
+        "Alchemist\\Alchemist.pck"
+      ],
+      "folder_name": "Alchemist",
+      "mod_id": "Alchemist",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/The_Alchemist_v0.13.3_7dc371a6.zip",
+      "bundle_sha256": "7dc371a6c86b8e4ef5c6c4bbc1811d329e436c430696c029ee91f8672e5140dc"
+    },
+    {
+      "mod_version_id": "cc520ebd-5cd5-4e6a-8ab6-e7ec750a7194",
+      "name": "The Blue Mage",
+      "version": "v1.0.6",
+      "source": "nexus:slaythespire2/mods/1401",
+      "hash": "4395c294654eda5493909ce92ea327a6a989cbe63a748c1fe3b39ffd4a8f8701",
+      "files": [
+        "TheBlueMage\\TheBlueMage.dll",
+        "TheBlueMage\\TheBlueMage.json",
+        "TheBlueMage\\TheBlueMage.pck"
+      ],
+      "folder_name": "TheBlueMage",
+      "mod_id": "TheBlueMage",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/The_Blue_Mage_v1.0.6_6b48263a.zip",
+      "bundle_sha256": "6b48263a6b4c16a058356a4d977a9a936e66acbf678a714f39ace777dfa8159d"
+    },
+    {
+      "mod_version_id": "6c14078b-331c-4336-8e94-17def508bc87",
+      "name": "Cloud",
+      "version": "v1.0.11",
+      "source": "nexus:slaythespire2/mods/1337",
+      "hash": "8063c1179b739e728a6acc12530b3c5cfd0461c83e6c1a93bb32ef8d6a01a6bd",
+      "files": [
+        "Cloud\\Cloud.dll",
+        "Cloud\\Cloud.json",
+        "Cloud\\Cloud.pck"
+      ],
+      "folder_name": "Cloud",
+      "mod_id": "Cloud",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Cloud_v1.0.11_a7ea7d7f.zip",
+      "bundle_sha256": "a7ea7d7fcdfaafdefd3f0696a16e5beae13d7dafd0776abc978caa46f5ce4d33"
+    },
+    {
+      "mod_version_id": "755706d2-e7f8-4c9e-89b7-0c7a28af1967",
+      "name": "Watcher",
+      "version": "1.5.10",
+      "source": "github:lamali292/WatcherMod",
+      "hash": "3f36d2986cb38430d892809e89088ffd29302b2828b17b670fbacdaf9870b67d",
+      "files": [
+        "Watcher\\Watcher.dll",
+        "Watcher\\Watcher.json",
+        "Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Watcher_v1.5.10_41d215ef.zip",
+      "bundle_sha256": "41d215ef13d058f008f551466070939660d1d5659034e5c379548be90f737247"
+    },
+    {
+      "mod_version_id": "50781368-89d7-4228-b08a-895c7ddb0802",
+      "name": "Tifa",
+      "version": "v1.0.10",
+      "source": "nexus:slaythespire2/mods/1440",
+      "hash": "5e94ea9707a90ef8a0d1136513962c06bf135c751decd37d40024b3b23046129",
+      "files": [
+        "Tifa\\Tifa.dll",
+        "Tifa\\Tifa.json",
+        "Tifa\\Tifa.pck"
+      ],
+      "folder_name": "Tifa",
+      "mod_id": "Tifa",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Tifa_v1.0.10_bbb4d379.zip",
+      "bundle_sha256": "bbb4d37989e8294ba6747aebaea3985d882e19479f8c84f7be95462b1987023a"
+    },
+    {
+      "mod_version_id": "5c6cd7af-dcaf-4b34-b75f-10206b00f57b",
+      "name": "Edea",
+      "version": "v1.1.2",
+      "source": "github:bupaverse/edeaR",
+      "hash": "450086c2eb0d08b07be87414bf22c46da5d2931e943cda34c018daf285a538d7",
+      "files": [
+        "EdeaMod\\EdeaMod.dll",
+        "EdeaMod\\EdeaMod.json",
+        "EdeaMod\\EdeaMod.pck",
+        "EdeaMod\\EdeaMod.pdb"
+      ],
+      "folder_name": "EdeaMod",
+      "mod_id": "EdeaMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Edea_v1.1.2_893661c5.zip",
+      "bundle_sha256": "893661c547c93f211666ec564fb7e42b5c0025c67be4bcdca7a907410d7a56e1"
+    },
+    {
+      "mod_version_id": "9a59b77e-4c97-415b-a624-76c7596879a3",
+      "name": "Sora",
+      "version": "v1.0.10",
+      "source": "nexus:slaythespire2/mods/1407",
+      "hash": "788d1d7ee914a9b27a5e5f9cf38cc29e569b838ffdb2df3c91bd634deadc19d8",
+      "files": [
+        "Sora\\Sora.dll",
+        "Sora\\Sora.json",
+        "Sora\\Sora.pck"
+      ],
+      "folder_name": "Sora",
+      "mod_id": "Sora",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Sora_v1.0.10_c798ed83.zip",
+      "bundle_sha256": "c798ed8354bd4cbe4c9d748358533397974001febc0cc6c57c9dd0aca81720ef"
+    },
+    {
+      "mod_version_id": "96bccd3e-b70e-43b4-929e-484423e1020d",
+      "name": "Ace",
+      "version": "v1.0.1",
+      "source": null,
+      "hash": "dbb5bfbef32d7219f938211dcac3c91a733d379f56b6887a95fa502e9f294b5d",
+      "files": [
+        "Ace\\Ace.dll",
+        "Ace\\Ace.json",
+        "Ace\\Ace.pck"
+      ],
+      "folder_name": "Ace",
+      "mod_id": "Ace",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Ace_v1.0.1_ccda76a5.zip",
+      "bundle_sha256": "ccda76a5059156ed37519ed0d24f6388b48ede028c140f276f7f72c7d8afb0b4"
+    },
+    {
+      "mod_version_id": "b7ef6c85-67ae-4793-8cde-52b9430666e1",
+      "name": "Highlight Map Points",
+      "version": "1.1",
+      "source": "nexus:slaythespire2/mods/40",
+      "hash": "6181dd198718011425340b0d17c5a1957458c84f4640ca13e6ae505cd93af1bc",
+      "files": [
+        "HighlightMapPoints\\HighlightMapPoints.dll",
+        "HighlightMapPoints\\HighlightMapPoints.json",
+        "HighlightMapPoints\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "HighlightMapPoints",
+      "mod_id": "HighlightMapPoints",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Highlight_Map_Points_v1.1_c70f8857.zip",
+      "bundle_sha256": "c70f8857f1ac64648a9389987817628f9d1fda0877adb7acdb4d05429f923373"
+    },
+    {
+      "mod_version_id": "4d8b6ec3-099e-4c3f-97b6-3dacf0b09b7a",
+      "name": "Potion Rarity Display",
+      "version": "1.1",
+      "source": "nexus:slaythespire2/mods/30",
+      "hash": "ef3feaa5c169f5c587dbbea85f1385a20238d77d0e52d3096d2dbfdc2cb47fba",
+      "files": [
+        "PotionRarityDisplay\\mod_manifest.json",
+        "PotionRarityDisplay\\PotionRarityDisplay.dll",
+        "PotionRarityDisplay\\PotionRarityDisplay.pck",
+        "PotionRarityDisplay\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "PotionRarityDisplay",
+      "mod_id": "PotionRarityDisplay",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Potion_Rarity_Display_v1.1_e8278f68.zip",
+      "bundle_sha256": "e8278f6842515fcdda40882bb099145a17a0873585f9b68cb8b3008b3f09ddb3"
+    },
+    {
+      "mod_version_id": "3a9de7aa-a4b8-4956-ac81-5780eafa78ef",
+      "name": "Relic Rarity Display",
+      "version": "1.1",
+      "source": "nexus:slaythespire2/mods/28",
+      "hash": "3e0f32fe90d01529d0a8293c21bc1910a38297bd079147196ff1c16bf6a722fc",
+      "files": [
+        "RelicRarityDisplay\\mod_manifest.json",
+        "RelicRarityDisplay\\RelicRarityDisplay.dll",
+        "RelicRarityDisplay\\RelicRarityDisplay.pck",
+        "RelicRarityDisplay\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "RelicRarityDisplay",
+      "mod_id": "RelicRarityDisplay",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Relic_Rarity_Display_v1.1_52cbb8e2.zip",
+      "bundle_sha256": "52cbb8e2889af3f7607aa504e002e6349bc49a5e95859b1c47e037164a5997ef"
+    },
+    {
+      "mod_version_id": "a5b1c416-ffc3-4854-ae8a-e81406ab1ea8",
+      "name": "CZN Main Menu",
+      "version": "v0.1.2-beta",
+      "source": "nexus:slaythespire2/mods/1402",
+      "hash": "f18b0d26962047d9b278b67241117d0448c739f0ca1eb40e74938cfb8edbd25c",
+      "files": [
+        "CznMainMenu\\CznMainMenu.dll",
+        "CznMainMenu\\CznMainMenu.json",
+        "CznMainMenu\\CznMainMenu.pck"
+      ],
+      "folder_name": "CznMainMenu",
+      "mod_id": "CznMainMenu",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Main_Menu_v0.1.2-beta_71bd25b2.zip",
+      "bundle_sha256": "71bd25b2d17652d9b91ee80eb063eabfefcc205c5fbe3f0a7d56da0ebcdc3ccc"
+    },
+    {
+      "mod_version_id": "659b76a1-9719-45af-bb93-0f81c01b26d1",
+      "name": "CZN Enemy Skin",
+      "version": "v1.0.2-beta",
+      "source": null,
+      "hash": "422865dca55b865527f3b88b42f8d4e2d7f95ea4d34f37cf40c15b5995e6e690",
+      "files": [
+        "CznEnemySkin\\CznEnemySkin.dll",
+        "CznEnemySkin\\CznEnemySkin.json",
+        "CznEnemySkin\\CznEnemySkin.pck"
+      ],
+      "folder_name": "CznEnemySkin",
+      "mod_id": "CznEnemySkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Enemy_Skin_v1.0.2-beta_dfdd1eaf.zip",
+      "bundle_sha256": "dfdd1eaf311f402049fa6c0e76fb99dcc0ba2b8babc96a53cacbd9cf055861e0"
+    },
+    {
+      "mod_version_id": "6328c824-c4c5-4e4f-8799-35ad595e5242",
+      "name": "CZN Style UI",
+      "version": "v1.2.1-beta",
+      "source": "nexus:slaythespire2/mods/1387",
+      "hash": "ac546b51e0944a24648be9bd7af1c444c0010325abd4f4f1eb1124ef4c5e9379",
+      "files": [
+        "CznStyleUI\\CznStyleUI.dll",
+        "CznStyleUI\\CznStyleUI.json",
+        "CznStyleUI\\CznStyleUI.pck"
+      ],
+      "folder_name": "CznStyleUI",
+      "mod_id": "CznStyleUI",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/CZN_Style_UI_v1.2.1-beta_8705ee49.zip",
+      "bundle_sha256": "8705ee4964df045313a7d883dbc0254939209cdb1be6dc7c144ced5a2ceba529"
+    },
+    {
+      "mod_version_id": "7650f466-1b4e-4a1c-95f5-73456e3fd86d",
+      "name": "Map Overhaul",
+      "version": "0.3.9",
+      "source": "github:erasels/SpireMapOverhaul",
+      "hash": "b92ab26613de84a5b59763ebdb7d5d71216a4dcd751536dd1cc8e849226ce590",
+      "files": [
+        "MapOverhaul\\MapOverhaul.dll",
+        "MapOverhaul\\MapOverhaul.json",
+        "MapOverhaul\\MapOverhaul.pck",
+        "MapOverhaul\\RitsuModConfigAdapter.dll"
+      ],
+      "folder_name": "MapOverhaul",
+      "mod_id": "MapOverhaul",
+      "enabled": true,
+      "bundle_url": "https://github.com/mdkdragon/sts2mm-profiles/releases/download/bundles/Map_Overhaul_v0.3.9_afb3fd22.zip",
+      "bundle_sha256": "afb3fd22731cbaaa3ad3f3cc2b7c3f5fb1b38b92a606a625b31bcf16a5628543"
+    }
+  ],
+  "created_at": "2026-08-14T21:02:03.467637200Z",
+  "updated_at": "2026-08-28T06:35:12.236732800Z",
+  "public": false
+}
